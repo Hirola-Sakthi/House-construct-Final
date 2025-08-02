@@ -1,0 +1,49 @@
+.terms-and-condition-parent{
+    padding-top: 50px;
+    padding-bottom: 60px;
+    background-image: url("/servicepage/bg-bannner-image.png");
+    background-size: contain;
+    background-repeat: repeat-y;
+    @media screen and (max-width:575px){
+    padding-top: 30px;
+    padding-bottom: 20px;
+    }
+    .container{
+        .policy-link{
+            text-decoration: none;
+            color: #C3921C;
+        }
+        .subtitle{
+            font-size: 14px;
+            letter-spacing: 3px;
+        }
+        .title{
+            font-weight: 700;
+            @media screen and (max-width:575px){
+                font-weight: 600;
+                font-size: 18px;
+                margin: 15px 0px;
+            }
+        }
+        p{
+            font-size: 16px;
+            line-height: 28px;
+            font-weight: 400;
+            padding: 10px 0px 0px 0px;
+            .policy-link{
+                text-decoration: none;
+                color: #C3921C;
+            }
+        }
+        ul{
+            li{
+                line-height: 28px;
+                ul{
+                    li{
+                        list-style-type: circle;
+                    }
+                }
+            }
+        }
+    }
+}

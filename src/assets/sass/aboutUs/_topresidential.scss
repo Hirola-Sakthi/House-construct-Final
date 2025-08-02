@@ -1,0 +1,93 @@
+.topresidential-main{
+    padding-top: 55px;
+    padding-bottom: 60px;
+    background: url('/images/about-pb2.webp');
+    @media only screen and (max-width:575px){
+        padding-bottom: 0px;
+    }
+    @media only screen and (min-width:768px) and (max-width:991px){
+        padding-bottom: 0px;
+    }
+    .container{
+        .first-row{
+            color: #fff;
+            padding-bottom: 50px;
+            @media only screen and (min-width: 315px) and (max-width: 553px){
+                padding-bottom: 20px;
+            }
+            @media only screen and (min-width:554px) and (max-width:767px) {
+                padding-bottom: 20px;
+            }
+            p{
+                font-size: 12px;
+                font-weight: 500;
+                letter-spacing: 2.3px;
+                @media only screen and (max-width:575px){
+                    text-align: center;
+                }
+            }
+            .title{
+                color: white;
+                font-size: 39px;
+                line-height: 72px;
+                font-style: normal;
+                font-weight: 600;
+                line-height: normal;
+
+                @media only screen and (max-width: 575px){
+                    font-size: 23px;
+                    text-align: center;
+                }
+                @media only screen and (min-width:576px) and (max-width:767px){
+                    font-size: 30px;
+                    padding-bottom: 10px;
+                }
+                @media only screen and (min-width:768px) and (max-width:991px){
+                    font-size: 30px;
+                }
+            }
+        }
+        .second-row{
+            .col-md-6{
+                padding-bottom: 20px;
+                hr{
+                    color: #fff;
+                }
+                .row{
+                    .topresidential-description-parent{
+                        display: flex;
+                        gap:15px;
+                        .topresidential-icon{
+                            color: #c3921c;
+                            svg{
+                                height: 40px;
+                                width: 50px;                            
+                            }
+                        }
+                        .title{
+                            padding-bottom: 5px;
+                            color: white;
+                            font-size: 22px;
+                            font-weight: 600;
+                        }
+                        .description{
+                            color: #B2BDC6;
+                            @media only screen and (min-width: 315px) and (max-width: 553px){
+                                padding-right: 15px;
+                                font-size: 15px;
+                            }
+                            @media only screen and (min-width: 554px) and (max-width: 767px){
+                                padding-right: 15px;
+                                font-size: 15px;
+                            }
+                            @media only screen and (min-width: 768px) and (max-width: 992px){
+                                padding-right: 15px;
+                            }
+                        }
+                    }
+                    
+                }
+            }
+        }
+    }
+}

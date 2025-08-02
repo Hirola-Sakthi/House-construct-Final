@@ -1,0 +1,93 @@
+.JobsByLocation-parent {
+    padding-bottom: 40px;
+    h2 {
+        text-align: center;
+        padding: 10px 0px 30px 0px;
+        font-weight: 700;
+        font-size: 36px;
+    }
+
+    .row {
+        .col-md-4 {
+            a{
+                text-decoration: none;
+            }
+            .JobsByLocation-sub {
+                .JobsByLocation-sub-image {
+                  height: 280px;
+                  width: 100%;
+                  overflow: hidden;
+              
+                  img {
+                    height: 100%;
+                    width: 100%;
+                    object-fit: cover;
+                    transition: all 0.2s linear;
+              
+                    &:hover {
+                      transform: scale(1.1);
+                    }
+                  }
+                }
+              
+                p {
+                  text-align: center;
+                  text-transform: uppercase;
+                  width: 100%;
+                  padding: 12px 0 12px 15px;
+                  border-top: 5px solid rgb(252, 72, 6);
+                  color: #fff;
+                  background-color: #000;
+                  transition: background-size .3s linear, background-position .3s linear;
+                  background-image: linear-gradient(to top, transparent 0%, transparent 50%, rgb(252, 72, 6) 50%);
+                  background-size: 100% 200%;
+                  background-position: 0 100%;
+                }
+                &:hover p{
+                    background-position: 0 0;
+                  }
+              }
+        }
+    }
+}
+
+@media screen and (max-width:575px){
+    .JobsByLocation-parent{
+        padding-bottom: 10px;
+        .row .col-md-4 .JobsByLocation-sub{
+            p{
+                font-size: 13px;
+            }
+            .JobsByLocation-sub-image {
+                height: 250px;
+            }
+        }
+    } 
+    .JobsByLocation-parent h2 {
+        padding: 5px 0px 7px 0px;
+        font-size: 16px;
+    }
+}
+@media screen and (min-width:576px) and (max-width:767px){
+    .JobsByLocation-parent{
+        h2{
+            padding: 0px 0px 10px 0px;
+            font-size: 20px;
+        }
+        .row .col-md-4{
+            padding: 5px;
+            .JobsByLocation-sub .JobsByLocation-sub-image {
+                height: 250px;
+            }
+        }
+    }
+
+}
+@media screen and (min-width:768px) and (max-width:991px){
+    .JobsByLocation-parent{
+        h2{
+            font-size: 28px;
+        }
+
+    }  
+}

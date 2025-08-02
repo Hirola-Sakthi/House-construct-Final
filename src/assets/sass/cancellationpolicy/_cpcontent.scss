@@ -1,0 +1,67 @@
+.cancellation-policy-parent{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    .container{
+        .policy-link{
+            text-decoration: none;
+            color: #C3921C;
+        }
+        .subtitle{
+            font-size: 14px;
+            letter-spacing: 3px;
+        }
+        p{
+            font-size: 16px;
+            line-height: 28px;
+            font-weight: 400;
+            padding: 10px 0px 0px 0px;
+        }
+        ul{
+            li{
+                line-height: 28px;
+            }
+        }
+        .row{
+            .col-8{
+                table{
+                    tr{
+                        th{
+                            padding-top: 30px;
+                            @media only screen and (max-width:575px){
+                                padding: 0;
+                            }
+                        }
+                        td{
+                            padding: 10px 0px 10px 0px;
+                        }
+                    }
+                }
+            }
+            .col-4{
+                table{
+                    tr{
+                        th{
+                            padding-top: 30px;
+                            @media only screen and (max-width:575px){
+                                padding: 0;
+                            }
+                        }
+                        td{
+                            padding: 10px 0px 10px 0px;
+                        }
+                    }
+                }
+            }
+
+            @media screen and (max-width:575px){
+                flex-direction: column;
+                .col-8{
+                    width: 100%;
+                }
+                .col-4{
+                    width: 100%;
+                }
+            }
+        }
+    }
+}

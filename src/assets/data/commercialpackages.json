@@ -1,0 +1,848 @@
+{
+    "city": [
+      {
+        "name": "Bangalore",
+        "packages": [
+          {
+            "name": " Basic Package: 1499/sqft Inc.GST",
+            "features": [
+              {
+                "title": "Designs & Drawings",
+                "items": [
+                  "Architectural Layout | 2D / 3D",
+                  "MEP Drawings",
+                  "Structural Design",
+                  "3D Elevation"
+                ]
+              },
+              {
+                "title": "Earth Work",
+                "items": [
+                  "The Foundation has been assumed as Isolated footings in regular Soil of Bearing Capacity 180kN/m^2 and above. For soil conditions requiring specialized foundation design or/and additional depth of excavation additional charges will be applicable.",
+                  "In case of rocky terrains, excavation cost shall be charged extra for foundation, sump, soak pit and other excavation at Rs. 35 per cubic feet",
+                  "Any Soil Bought up /Carting away will be client Scope"
+                ]
+              },
+
+              {
+                "title": "RCC and Masonary Works",
+                "items": [
+                  "RCC Framed Structure in M-25 grade Concrete in 20mm & 40mm Aggregates or as advised in the RCC Design Mix as per the Structural designer",
+                  "The Plinth level will be Provided at a height of 1 feet and 6 inches above the existing Ground Level. PCC of 100mm shall be Provided at the Plinth Level below the Ground floor Flooring.",
+                  "Internal plastering (1:5 Cement mortar) and Ceiling Plastering (1:4 Cement mortar) shall be done by 15 mm thickness",
+                  "External plastering (1:5 Cement mortar) 1st Coat and (1:3 Cement mortar) in second coat shall be done by total 20 mm thickness",
+                  "Water proofing compound of Fosroc/ equivalent brand shall be used in the external plastering. and mortar mix used in fixing washroom tiles",
+                  "Steel - Sunvik, Kamadhenu or equivalent",
+                  "Cement - ACC,Birla or Zuari or equivalent 43 or 53 grade",
+                  "Chicken mesh shall be used near beams, column & masonry wall junction and at the chasing for electrical conduits.",
+                  "Blockwork Masonry in Standard Solid Concrete Blocks with Plaster as per the design 4 inche for internal Partitions and 6 inche for External Walls.",
+                  "M-Sand shall be used for Masonry and P-Sand shall be used for Plastering",
+                  "Cut-Lintels shall be provided only over openings with bearing of 1feet into the edge of the openings. For providing concrete band all around, additional Charges shall be applicable.",
+                  "Water proofing shall be done in the terrace slab, all washrooms and balconies using Fosroc / Dr Fixit Brush bond or equivalent brands."
+                ]
+              },
+              {
+                "title": "Bathroom",
+                "items": [
+                  "Ceramic wall tiles will be provided upto 7 feet- 0 inches above the Finished Floor Level of - upto INR 50 per Sft",
+                  "Bathroom Flooring - Anti-skid tiles of value upto Rs.40/- per sqft",
+                  "Spacer joints shall be provided in the floor tiles and the wall dado tiles. Grouting shall be of polymeric cement grout of Roff/ Weber/ equivalent brands",
+                  "External pipes shall be fixed on raised clamps",
+                  "CPVC Pipe - Astral or equivalent",
+                  "Sanitary ware and CP fittings of - upto INR 30,000 are included per 1000 sft of Package Built Up area. Additional Sanitary Ware and CP Fittings will be charged on a Pro-Rata Basis. One number EWC, Health Faucet, Wash Basin, Basin Mixer, Overhead Shower with 2 in 1 Shower wall Mixer of Hindware/Parryware make is included. Plumbing shall be carried out in CPVC Pipes of Ashirwad/Supreme or Equivalent Make"
+                ]
+              },
+              {
+                "title": "Windows",
+                "items": [
+                  "Windows shall be 3 Track Premium UPVC of guage 92mm of make Apollo of - Rs. 300 per sft with 2 Glass and 1 mesh shutters, including all fixtures and fittings",
+                  "Window Grills of upto INR 110 per sft shall be provided of 10mm thick MS rods with maximum spacing 125mm between rods in either direction"
+                ]
+              },
+              {
+                "title": "Painting",
+                "items": [
+                  "All MS Steel grills and railings shall be painted with an anti corrosion coat with a final coat of Enamel Paint",
+                  "Interior Painting - Primer 1 Coat + Birla Putty 2 Coat + Tractor Emulsion or equivalent 2 Coats",
+                  "Exterior Painting - 1 Coat Asian Primer + Ace Exterior Emulsion weatherproof Paint or equivalent 2 Coats"
+                ]
+              },
+              {
+                "title": "Flooring",
+                "items": [
+                  "Flooring shall be in Vitrified Tiles or Granite of - upto INR 60 per sft",
+                  "Staircase flooring shall be in Sadderahalli Granite of - upto INR 70 per sft",
+                  "Skirting shall be of matching Vitrified Tiles or Granite not less than 75mm high",
+                  "Ceramic tiles for walls shall be free from cracks, spots, grazes, chipped edges and corners. Variation in size shall be limited to +/- 1.5 mm. Thickness shall be as specified, but in no case shall they be less than 6 mm",
+                  "Granite if used shall be hard, sound, free from cracks, cavities, holes, patches of injurious veins, weathered portions, flaws, etc. Granite used should have a minimum thickness of 19 mm"
+                ]
+              },
+              {
+                "title": "Electrical",
+                "items": [
+                  "Wires - Fireproof wires by Anchor/Polycab",
+                  "Switches & Sockets - Anchor",
+                  "The electrical points shall be provided as per the Electrical drawings provided.",
+                  "All wiring shall be done with fire proof wires of Anchor or equivalent make",
+                  "All switches and sockets shall be provided of - Anchor Roma make or equivalent",
+                  "One MCB board of Anchor/Finolex or equivalent make shall be provided",
+                  "Main panel board shall be in the Owner's scope including road cutting charges and main-line from pole to panel board"
+                ]
+              },
+              {
+                "title": "Miscellaneous",
+                "items": [
+                  "Overhead Tank - Sintex Double Layered 1500 ltrs.Platform for the OHT shall be charged additional based on the design.",
+                  "Underground sump of - 6000L shall be provided with Concrete block masonry. The inside of the wall shall be provided with chicken mesh plastering. MS cover plate of dimension 600 mm x 600 mm shall be provided. Water Proofing chemical be applied to mortar for plastering.",
+                  "Staircase Railing - A simple pattern Staircase Railing shall be in MS of - upto Rs. 400 per Rft for material, painting, welding, fixing, and finishing",
+                  "Rolling Shutter shall be charged additional. If required additional, a Mild Steel Rolling Shutter shall be provided.",
+                  "Compound Wall shall be charged additional. If required additional, the compound wall shall be in solid cement block masonry with 5 feet height from the ground level and 115 mm in thickness. Buttress/columns shall be provided for every 10 feet length of the compound. Expansion joints may be provided wherever necessary. The compound wall shall be constructed on size stone masonry foundation of minimum thickness 450mm and minimum depth 2 feet. The foundation shall be laid on compacted hard soil. Bed concrete of minimum thickness 80mm shall be provided below the foundation. Compound wall shall be plastered and painted as per the plastering and painting specifications",
+                  "Balcony and Utility railings along with the Terrace parapet railings if opted for shall be charged additional",
+                  "Elevation of the building on all sides shall include basic plastering and external painting with no other aesthetic elements like cladding, pergola, etc.",
+                  "Weather proof course shall be provided at terrace with one coat of waterproofing agent of Dr. Fixit brand or equivalent",
+                  "Rain water harvesting is included and shall be provided as per BBMP norms at - INR 20,000",
+                  "An additional Sintex Double layered overhead tank capacity shall be chargeable at INR 9 per L. Platform for the OHT shall be charged additional based on the design and specifications"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Standard Package: 1599/sqft Inc.GST",
+            "features": [
+              {
+                "title": "Designs & Drawings",
+                "items": [
+                  "Architectural Layout | 2D / 3D",
+                  "MEP Drawings",
+                  "Structural Design",
+                  "3D Elevation"
+                ]
+              },
+              {
+                "title": "Earth Work",
+                "items": [
+                  "The Foundation has been assumed as Isolated footings in regular Soil of Bearing Capacity 180kN/m^2 and above. For soil conditions requiring specialized foundation design or/and additional depth of excavation additional charges will be applicable.",
+                  "In case of rocky terrains, excavation cost shall be charged extra for foundation, sump, soak pit and other excavation at Rs. 35 per cubic feet",
+                  "Any Soil Bought up /Carting away will be client Scope"
+                ]
+              },
+
+              {
+                "title": "RCC and Masonary Works",
+                "items": [
+                  "RCC Framed Structure in M-25 grade Concrete in 20mm & 40mm Aggregates or as advised in the RCC Design Mix as per the Structural designer",
+                  "The Plinth level will be Provided at a height of 1 feet and 6 inches above the existing Ground Level. PCC of 100mm shall be Provided at the Plinth Level below the Ground floor Flooring.",
+                  "Internal plastering (1:5 Cement mortar) and Ceiling Plastering (1:4 Cement mortar) shall be done by 15 mm thickness",
+                  "External plastering (1:5 Cement mortar) 1st Coat and (1:3 Cement mortar) in second coat shall be done by total 20 mm thickness",
+                  "Water proofing compound of Fosroc/ equivalent brand shall be used in the external plastering. and mortar mix used in fixing washroom tiles",
+                  "Steel - JSW or equivalent",
+                  "Cement - ACC,Birla or Zuari or equivalent 43 or 53 grade",
+                  "Chicken mesh shall be used near beams, column & masonry wall junction and at the chasing for electrical conduits.",
+                  "Blockwork Masonry in Standard Solid Concrete Blocks with Plaster as per the design 4 inche for internal Partitions and 6 inche for External Walls.",
+                  "M-Sand shall be used for Masonry and P-Sand shall be used for Plastering",
+                  "Through Lintels shall be provided only over openings with bearing of 1feet into the edge of the openings. For providing concrete band all around, additional Charges shall be applicable.",
+                  "Water proofing shall be done in the terrace slab, all washrooms and balconies using Fosroc / Dr Fixit Brush bond or equivalent brands."
+                ]
+              },
+              {
+                "title": "Bathroom",
+                "items": [
+                  "Ceramic wall tiles will be provided upto 7 feet- 0 inches above the Finished Floor Level of - upto INR 60 per Sft",
+                  "Bathroom Flooring - Anti-skid tiles of value upto Rs.50/- per sqft",
+                  "Spacer joints shall be provided in the floor tiles and the wall dado tiles. Grouting shall be of polymeric cement grout of Roff/ Weber/ equivalent brands",
+                  "External pipes shall be fixed on raised clamps",
+                  "CPVC Pipe - Astral or equivalent",
+                  "Sanitary ware and CP fittings of - upto INR 40,000 are included per 1000 sft of Package Built Up area. Additional Sanitary Ware and CP Fittings will be charged on a Pro-Rata Basis. One number EWC, Health Faucet, Wash Basin, Basin Mixer, Overhead Shower with 2 in 1 Shower wall Mixer of Hindware/Parryware make is included. Plumbing shall be carried out in CPVC Pipes of Ashirwad/Supreme or Equivalent Make"
+                ]
+              },
+              {
+                "title": "Windows",
+                "items": [
+                  "Windows shall be 3 Track Premium UPVC of guage 92mm of make Apollo of - Rs. 400 per sft with 2 Glass and 1 mesh shutters, including all fixtures and fittings",
+                  "Window Grills of upto INR 150 per sft shall be provided of 10mm thick MS rods with maximum spacing 125mm between rods in either direction"
+                ]
+              },
+              {
+                "title": "Painting",
+                "items": [
+                  "All MS Steel grills and railings shall be painted with an anti corrosion coat with a final coat of Enamel Paint",
+                  "Interior Painting - Primer 1 Coat + Birla Putty 2 Coat + Tractor Emulsion or equivalent 2 Coats",
+                  "Exterior Painting - 1 Coat Asian Primer + Ace Exterior Emulsion weatherproof Paint or equivalent 2 Coats"
+                ]
+              },
+              {
+                "title": "Flooring",
+                "items": [
+                  "Flooring shall be in Vitrified Tiles or Granite of - upto INR 80 per sft",
+                  "Staircase flooring shall be in Sadderahalli Granite of - upto INR 70 per sft",
+                  "Skirting shall be of matching Vitrified Tiles or Granite not less than 75mm high",
+                  "Ceramic tiles for walls shall be free from cracks, spots, grazes, chipped edges and corners. Variation in size shall be limited to +/- 1.5 mm. Thickness shall be as specified, but in no case shall they be less than 6 mm",
+                  "Granite if used shall be hard, sound, free from cracks, cavities, holes, patches of injurious veins, weathered portions, flaws, etc. Granite used should have a minimum thickness of 19 mm"
+                ]
+              },
+              {
+                "title": "Electrical",
+                "items": [
+                  "Wires - Fireproof wires by Anchor/Polycab",
+                  "Switches & Sockets - Anchor",
+                  "The electrical points shall be provided as per the Electrical drawings provided.",
+                  "All wiring shall be done with fire proof wires of Anchor or equivalent make",
+                  "All switches and sockets shall be provided of - Anchor Roma make or equivalent",
+                  "One MCB board of Anchor/Finolex or equivalent make shall be provided",
+                  "Main panel board shall be in the Owner's scope including road cutting charges and main-line from pole to panel board"
+                ]
+              },
+              {
+                "title": "Miscellaneous",
+                "items": [
+                  "Overhead Tank - Sintex Double Layered 2000 ltrs.Platform for the OHT shall be charged additional based on the design.",
+                  "Underground sump of - 10000L shall be provided with Concrete block masonry. The inside of the wall shall be provided with chicken mesh plastering. MS cover plate of dimension 600 mm x 600 mm shall be provided. Water Proofing chemical be applied to mortar for plastering.",
+                  "Staircase Railing - A simple pattern Staircase Railing shall be in SS of - upto Rs. 650 per Rft for material, painting, welding, fixing, and finishing",
+                  "Rolling Shutter shall be charged additional. If required additional, a Mild Steel Rolling Shutter shall be provided.",
+                  "Compound Wall shall be charged additional. If required additional, the compound wall shall be in solid cement block masonry with 5 feet height from the ground level and 115 mm in thickness. Buttress/columns shall be provided for every 10 feet length of the compound. Expansion joints may be provided wherever necessary. The compound wall shall be constructed on size stone masonry foundation of minimum thickness 450mm and minimum depth 2 feet. The foundation shall be laid on compacted hard soil. Bed concrete of minimum thickness 80mm shall be provided below the foundation. Compound wall shall be plastered and painted as per the plastering and painting specifications",
+                  "Balcony and Utility railings along with the Terrace parapet railings if opted for shall be charged additional",
+                  "Elevation of the building on all sides shall include basic plastering and external painting with no other aesthetic elements like cladding, pergola, etc.",
+                  "Weather proof course shall be provided at terrace with one coat of waterproofing agent of Dr. Fixit brand or equivalent",
+                  "Rain water harvesting is included and shall be provided as per BBMP norms at - INR 20,000",
+                  "An additional Sintex Double layered overhead tank capacity shall be chargeable at INR 9 per L. Platform for the OHT shall be charged additional based on the design and specifications"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Chennai",
+        "packages": [
+          {
+            "name": " Basic Package: 1499/sqft Inc.GST",
+            "features": [
+              {
+                "title": "Designs & Drawings",
+                "items": [
+                  "Architectural Layout | 2D / 3D",
+                  "MEP Drawings",
+                  "Structural Design",
+                  "3D Elevation"
+                ]
+              },
+              {
+                "title": "Earth Work",
+                "items": [
+                  "The Foundation has been assumed as Isolated footings in regular Soil of Bearing Capacity 180kN/m^2 and above. For soil conditions requiring specialized foundation design or/and additional depth of excavation additional charges will be applicable.",
+                  "In case of rocky terrains, excavation cost shall be charged extra for foundation, sump, soak pit and other excavation at Rs. 35 per cubic feet",
+                  "Any Soil Bought up /Carting away will be client Scope"
+                ]
+              },
+
+              {
+                "title": "RCC and Masonary Works",
+                "items": [
+                  "RCC Framed Structure in M-25 grade Concrete in 20mm & 40mm Aggregates or as advised in the RCC Design Mix as per the Structural designer",
+                  "The Plinth level will be Provided at a height of 1 feet and 6 inches above the existing Ground Level. PCC of 100mm shall be Provided at the Plinth Level below the Ground floor Flooring.",
+                  "Internal plastering (1:5 Cement mortar) and Ceiling Plastering (1:4 Cement mortar) shall be done by 15 mm thickness",
+                  "External plastering (1:5 Cement mortar) 1st Coat and (1:3 Cement mortar) in second coat shall be done by total 20 mm thickness",
+                  "Water proofing compound of Fosroc/ equivalent brand shall be used in the external plastering. and mortar mix used in fixing washroom tiles",
+                  "Steel - Sunvik, Kamadhenu or equivalent",
+                  "Cement - ACC,Birla or Zuari or equivalent 43 or 53 grade",
+                  "Chicken mesh shall be used near beams, column & masonry wall junction and at the chasing for electrical conduits.",
+                  "Blockwork Masonry in Standard Solid Concrete Blocks with Plaster as per the design 4 inche for internal Partitions and 6 inche for External Walls.",
+                  "M-Sand shall be used for Masonry and P-Sand shall be used for Plastering",
+                  "Cut-Lintels shall be provided only over openings with bearing of 1feet into the edge of the openings. For providing concrete band all around, additional Charges shall be applicable.",
+                  "Water proofing shall be done in the terrace slab, all washrooms and balconies using Fosroc / Dr Fixit Brush bond or equivalent brands."
+                ]
+              },
+              {
+                "title": "Bathroom",
+                "items": [
+                  "Ceramic wall tiles will be provided upto 7 feet- 0 inches above the Finished Floor Level of - upto INR 50 per Sft",
+                  "Bathroom Flooring - Anti-skid tiles of value upto Rs.40/- per sqft",
+                  "Spacer joints shall be provided in the floor tiles and the wall dado tiles. Grouting shall be of polymeric cement grout of Roff/ Weber/ equivalent brands",
+                  "External pipes shall be fixed on raised clamps",
+                  "CPVC Pipe - Astral or equivalent",
+                  "Sanitary ware and CP fittings of - upto INR 30,000 are included per 1000 sft of Package Built Up area. Additional Sanitary Ware and CP Fittings will be charged on a Pro-Rata Basis. One number EWC, Health Faucet, Wash Basin, Basin Mixer, Overhead Shower with 2 in 1 Shower wall Mixer of Hindware/Parryware make is included. Plumbing shall be carried out in CPVC Pipes of Ashirwad/Supreme or Equivalent Make"
+                ]
+              },
+              {
+                "title": "Windows",
+                "items": [
+                  "Windows shall be 3 Track Premium UPVC of guage 92mm of make Apollo of - Rs. 300 per sft with 2 Glass and 1 mesh shutters, including all fixtures and fittings",
+                  "Window Grills of upto INR 110 per sft shall be provided of 10mm thick MS rods with maximum spacing 125mm between rods in either direction"
+                ]
+              },
+              {
+                "title": "Painting",
+                "items": [
+                  "All MS Steel grills and railings shall be painted with an anti corrosion coat with a final coat of Enamel Paint",
+                  "Interior Painting - Primer 1 Coat + Birla Putty 2 Coat + Tractor Emulsion or equivalent 2 Coats",
+                  "Exterior Painting - 1 Coat Asian Primer + Ace Exterior Emulsion weatherproof Paint or equivalent 2 Coats"
+                ]
+              },
+              {
+                "title": "Flooring",
+                "items": [
+                  "Flooring shall be in Vitrified Tiles or Granite of - upto INR 60 per sft",
+                  "Staircase flooring shall be in Sadderahalli Granite of - upto INR 70 per sft",
+                  "Skirting shall be of matching Vitrified Tiles or Granite not less than 75mm high",
+                  "Ceramic tiles for walls shall be free from cracks, spots, grazes, chipped edges and corners. Variation in size shall be limited to +/- 1.5 mm. Thickness shall be as specified, but in no case shall they be less than 6 mm",
+                  "Granite if used shall be hard, sound, free from cracks, cavities, holes, patches of injurious veins, weathered portions, flaws, etc. Granite used should have a minimum thickness of 19 mm"
+                ]
+              },
+              {
+                "title": "Electrical",
+                "items": [
+                  "Wires - Fireproof wires by Anchor/Polycab",
+                  "Switches & Sockets - Anchor",
+                  "The electrical points shall be provided as per the Electrical drawings provided.",
+                  "All wiring shall be done with fire proof wires of Anchor or equivalent make",
+                  "All switches and sockets shall be provided of - Anchor Roma make or equivalent",
+                  "One MCB board of Anchor/Finolex or equivalent make shall be provided",
+                  "Main panel board shall be in the Owner's scope including road cutting charges and main-line from pole to panel board"
+                ]
+              },
+              {
+                "title": "Miscellaneous",
+                "items": [
+                  "Overhead Tank - Sintex Double Layered 1500 ltrs.Platform for the OHT shall be charged additional based on the design.",
+                  "Underground sump of - 6000L shall be provided with Concrete block masonry. The inside of the wall shall be provided with chicken mesh plastering. MS cover plate of dimension 600 mm x 600 mm shall be provided. Water Proofing chemical be applied to mortar for plastering.",
+                  "Staircase Railing - A simple pattern Staircase Railing shall be in MS of - upto Rs. 400 per Rft for material, painting, welding, fixing, and finishing",
+                  "Rolling Shutter shall be charged additional. If required additional, a Mild Steel Rolling Shutter shall be provided.",
+                  "Compound Wall shall be charged additional. If required additional, the compound wall shall be in solid cement block masonry with 5 feet height from the ground level and 115 mm in thickness. Buttress/columns shall be provided for every 10 feet length of the compound. Expansion joints may be provided wherever necessary. The compound wall shall be constructed on size stone masonry foundation of minimum thickness 450mm and minimum depth 2 feet. The foundation shall be laid on compacted hard soil. Bed concrete of minimum thickness 80mm shall be provided below the foundation. Compound wall shall be plastered and painted as per the plastering and painting specifications",
+                  "Balcony and Utility railings along with the Terrace parapet railings if opted for shall be charged additional",
+                  "Elevation of the building on all sides shall include basic plastering and external painting with no other aesthetic elements like cladding, pergola, etc.",
+                  "Weather proof course shall be provided at terrace with one coat of waterproofing agent of Dr. Fixit brand or equivalent",
+                  "Rain water harvesting is included and shall be provided as per BBMP norms at - INR 20,000",
+                  "An additional Sintex Double layered overhead tank capacity shall be chargeable at INR 9 per L. Platform for the OHT shall be charged additional based on the design and specifications"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Standard Package: 1599/sqft Inc.GST",
+            "features": [
+              {
+                "title": "Designs & Drawings",
+                "items": [
+                  "Architectural Layout | 2D / 3D",
+                  "MEP Drawings",
+                  "Structural Design",
+                  "3D Elevation"
+                ]
+              },
+              {
+                "title": "Earth Work",
+                "items": [
+                  "The Foundation has been assumed as Isolated footings in regular Soil of Bearing Capacity 180kN/m^2 and above. For soil conditions requiring specialized foundation design or/and additional depth of excavation additional charges will be applicable.",
+                  "In case of rocky terrains, excavation cost shall be charged extra for foundation, sump, soak pit and other excavation at Rs. 35 per cubic feet",
+                  "Any Soil Bought up /Carting away will be client Scope"
+                ]
+              },
+
+              {
+                "title": "RCC and Masonary Works",
+                "items": [
+                  "RCC Framed Structure in M-25 grade Concrete in 20mm & 40mm Aggregates or as advised in the RCC Design Mix as per the Structural designer",
+                  "The Plinth level will be Provided at a height of 1 feet and 6 inches above the existing Ground Level. PCC of 100mm shall be Provided at the Plinth Level below the Ground floor Flooring.",
+                  "Internal plastering (1:5 Cement mortar) and Ceiling Plastering (1:4 Cement mortar) shall be done by 15 mm thickness",
+                  "External plastering (1:5 Cement mortar) 1st Coat and (1:3 Cement mortar) in second coat shall be done by total 20 mm thickness",
+                  "Water proofing compound of Fosroc/ equivalent brand shall be used in the external plastering. and mortar mix used in fixing washroom tiles",
+                  "Steel - JSW or equivalent",
+                  "Cement - ACC,Birla or Zuari or equivalent 43 or 53 grade",
+                  "Chicken mesh shall be used near beams, column & masonry wall junction and at the chasing for electrical conduits.",
+                  "Blockwork Masonry in Standard Solid Concrete Blocks with Plaster as per the design 4 inche for internal Partitions and 6 inche for External Walls.",
+                  "M-Sand shall be used for Masonry and P-Sand shall be used for Plastering",
+                  "Through Lintels shall be provided only over openings with bearing of 1feet into the edge of the openings. For providing concrete band all around, additional Charges shall be applicable.",
+                  "Water proofing shall be done in the terrace slab, all washrooms and balconies using Fosroc / Dr Fixit Brush bond or equivalent brands."
+                ]
+              },
+              {
+                "title": "Bathroom",
+                "items": [
+                  "Ceramic wall tiles will be provided upto 7 feet- 0 inches above the Finished Floor Level of - upto INR 60 per Sft",
+                  "Bathroom Flooring - Anti-skid tiles of value upto Rs.50/- per sqft",
+                  "Spacer joints shall be provided in the floor tiles and the wall dado tiles. Grouting shall be of polymeric cement grout of Roff/ Weber/ equivalent brands",
+                  "External pipes shall be fixed on raised clamps",
+                  "CPVC Pipe - Astral or equivalent",
+                  "Sanitary ware and CP fittings of - upto INR 40,000 are included per 1000 sft of Package Built Up area. Additional Sanitary Ware and CP Fittings will be charged on a Pro-Rata Basis. One number EWC, Health Faucet, Wash Basin, Basin Mixer, Overhead Shower with 2 in 1 Shower wall Mixer of Hindware/Parryware make is included. Plumbing shall be carried out in CPVC Pipes of Ashirwad/Supreme or Equivalent Make"
+                ]
+              },
+              {
+                "title": "Windows",
+                "items": [
+                  "Windows shall be 3 Track Premium UPVC of guage 92mm of make Apollo of - Rs. 400 per sft with 2 Glass and 1 mesh shutters, including all fixtures and fittings",
+                  "Window Grills of upto INR 150 per sft shall be provided of 10mm thick MS rods with maximum spacing 125mm between rods in either direction"
+                ]
+              },
+              {
+                "title": "Painting",
+                "items": [
+                  "All MS Steel grills and railings shall be painted with an anti corrosion coat with a final coat of Enamel Paint",
+                  "Interior Painting - Primer 1 Coat + Birla Putty 2 Coat + Tractor Emulsion or equivalent 2 Coats",
+                  "Exterior Painting - 1 Coat Asian Primer + Ace Exterior Emulsion weatherproof Paint or equivalent 2 Coats"
+                ]
+              },
+              {
+                "title": "Flooring",
+                "items": [
+                  "Flooring shall be in Vitrified Tiles or Granite of - upto INR 80 per sft",
+                  "Staircase flooring shall be in Sadderahalli Granite of - upto INR 70 per sft",
+                  "Skirting shall be of matching Vitrified Tiles or Granite not less than 75mm high",
+                  "Ceramic tiles for walls shall be free from cracks, spots, grazes, chipped edges and corners. Variation in size shall be limited to +/- 1.5 mm. Thickness shall be as specified, but in no case shall they be less than 6 mm",
+                  "Granite if used shall be hard, sound, free from cracks, cavities, holes, patches of injurious veins, weathered portions, flaws, etc. Granite used should have a minimum thickness of 19 mm"
+                ]
+              },
+              {
+                "title": "Electrical",
+                "items": [
+                  "Wires - Fireproof wires by Anchor/Polycab",
+                  "Switches & Sockets - Anchor",
+                  "The electrical points shall be provided as per the Electrical drawings provided.",
+                  "All wiring shall be done with fire proof wires of Anchor or equivalent make",
+                  "All switches and sockets shall be provided of - Anchor Roma make or equivalent",
+                  "One MCB board of Anchor/Finolex or equivalent make shall be provided",
+                  "Main panel board shall be in the Owner's scope including road cutting charges and main-line from pole to panel board"
+                ]
+              },
+              {
+                "title": "Miscellaneous",
+                "items": [
+                  "Overhead Tank - Sintex Double Layered 2000 ltrs.Platform for the OHT shall be charged additional based on the design.",
+                  "Underground sump of - 10000L shall be provided with Concrete block masonry. The inside of the wall shall be provided with chicken mesh plastering. MS cover plate of dimension 600 mm x 600 mm shall be provided. Water Proofing chemical be applied to mortar for plastering.",
+                  "Staircase Railing - A simple pattern Staircase Railing shall be in SS of - upto Rs. 650 per Rft for material, painting, welding, fixing, and finishing",
+                  "Rolling Shutter shall be charged additional. If required additional, a Mild Steel Rolling Shutter shall be provided.",
+                  "Compound Wall shall be charged additional. If required additional, the compound wall shall be in solid cement block masonry with 5 feet height from the ground level and 115 mm in thickness. Buttress/columns shall be provided for every 10 feet length of the compound. Expansion joints may be provided wherever necessary. The compound wall shall be constructed on size stone masonry foundation of minimum thickness 450mm and minimum depth 2 feet. The foundation shall be laid on compacted hard soil. Bed concrete of minimum thickness 80mm shall be provided below the foundation. Compound wall shall be plastered and painted as per the plastering and painting specifications",
+                  "Balcony and Utility railings along with the Terrace parapet railings if opted for shall be charged additional",
+                  "Elevation of the building on all sides shall include basic plastering and external painting with no other aesthetic elements like cladding, pergola, etc.",
+                  "Weather proof course shall be provided at terrace with one coat of waterproofing agent of Dr. Fixit brand or equivalent",
+                  "Rain water harvesting is included and shall be provided as per BBMP norms at - INR 20,000",
+                  "An additional Sintex Double layered overhead tank capacity shall be chargeable at INR 9 per L. Platform for the OHT shall be charged additional based on the design and specifications"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hyderabad",
+        "packages": [
+          {
+            "name": " Basic Package: 1499/sqft Inc.GST",
+            "features": [
+              {
+                "title": "Designs & Drawings",
+                "items": [
+                  "Architectural Layout | 2D / 3D",
+                  "MEP Drawings",
+                  "Structural Design",
+                  "3D Elevation"
+                ]
+              },
+              {
+                "title": "Earth Work",
+                "items": [
+                  "The Foundation has been assumed as Isolated footings in regular Soil of Bearing Capacity 180kN/m^2 and above. For soil conditions requiring specialized foundation design or/and additional depth of excavation additional charges will be applicable.",
+                  "In case of rocky terrains, excavation cost shall be charged extra for foundation, sump, soak pit and other excavation at Rs. 35 per cubic feet",
+                  "Any Soil Bought up /Carting away will be client Scope"
+                ]
+              },
+
+              {
+                "title": "RCC and Masonary Works",
+                "items": [
+                  "RCC Framed Structure in M-25 grade Concrete in 20mm & 40mm Aggregates or as advised in the RCC Design Mix as per the Structural designer",
+                  "The Plinth level will be Provided at a height of 1 feet and 6 inches above the existing Ground Level. PCC of 100mm shall be Provided at the Plinth Level below the Ground floor Flooring.",
+                  "Internal plastering (1:5 Cement mortar) and Ceiling Plastering (1:4 Cement mortar) shall be done by 15 mm thickness",
+                  "External plastering (1:5 Cement mortar) 1st Coat and (1:3 Cement mortar) in second coat shall be done by total 20 mm thickness",
+                  "Water proofing compound of Fosroc/ equivalent brand shall be used in the external plastering. and mortar mix used in fixing washroom tiles",
+                  "Steel - Sunvik, Kamadhenu or equivalent",
+                  "Cement - ACC,Birla or Zuari or equivalent 43 or 53 grade",
+                  "Chicken mesh shall be used near beams, column & masonry wall junction and at the chasing for electrical conduits.",
+                  "Blockwork Masonry in Standard Solid Concrete Blocks with Plaster as per the design 4 inche for internal Partitions and 6 inche for External Walls.",
+                  "M-Sand shall be used for Masonry and P-Sand shall be used for Plastering",
+                  "Cut-Lintels shall be provided only over openings with bearing of 1feet into the edge of the openings. For providing concrete band all around, additional Charges shall be applicable.",
+                  "Water proofing shall be done in the terrace slab, all washrooms and balconies using Fosroc / Dr Fixit Brush bond or equivalent brands."
+                ]
+              },
+              {
+                "title": "Bathroom",
+                "items": [
+                  "Ceramic wall tiles will be provided upto 7 feet- 0 inches above the Finished Floor Level of - upto INR 50 per Sft",
+                  "Bathroom Flooring - Anti-skid tiles of value upto Rs.40/- per sqft",
+                  "Spacer joints shall be provided in the floor tiles and the wall dado tiles. Grouting shall be of polymeric cement grout of Roff/ Weber/ equivalent brands",
+                  "External pipes shall be fixed on raised clamps",
+                  "CPVC Pipe - Astral or equivalent",
+                  "Sanitary ware and CP fittings of - upto INR 30,000 are included per 1000 sft of Package Built Up area. Additional Sanitary Ware and CP Fittings will be charged on a Pro-Rata Basis. One number EWC, Health Faucet, Wash Basin, Basin Mixer, Overhead Shower with 2 in 1 Shower wall Mixer of Hindware/Parryware make is included. Plumbing shall be carried out in CPVC Pipes of Ashirwad/Supreme or Equivalent Make"
+                ]
+              },
+              {
+                "title": "Windows",
+                "items": [
+                  "Windows shall be 3 Track Premium UPVC of guage 92mm of make Apollo of - Rs. 300 per sft with 2 Glass and 1 mesh shutters, including all fixtures and fittings",
+                  "Window Grills of upto INR 110 per sft shall be provided of 10mm thick MS rods with maximum spacing 125mm between rods in either direction"
+                ]
+              },
+              {
+                "title": "Painting",
+                "items": [
+                  "All MS Steel grills and railings shall be painted with an anti corrosion coat with a final coat of Enamel Paint",
+                  "Interior Painting - Primer 1 Coat + Birla Putty 2 Coat + Tractor Emulsion or equivalent 2 Coats",
+                  "Exterior Painting - 1 Coat Asian Primer + Ace Exterior Emulsion weatherproof Paint or equivalent 2 Coats"
+                ]
+              },
+              {
+                "title": "Flooring",
+                "items": [
+                  "Flooring shall be in Vitrified Tiles or Granite of - upto INR 60 per sft",
+                  "Staircase flooring shall be in Sadderahalli Granite of - upto INR 70 per sft",
+                  "Skirting shall be of matching Vitrified Tiles or Granite not less than 75mm high",
+                  "Ceramic tiles for walls shall be free from cracks, spots, grazes, chipped edges and corners. Variation in size shall be limited to +/- 1.5 mm. Thickness shall be as specified, but in no case shall they be less than 6 mm",
+                  "Granite if used shall be hard, sound, free from cracks, cavities, holes, patches of injurious veins, weathered portions, flaws, etc. Granite used should have a minimum thickness of 19 mm"
+                ]
+              },
+              {
+                "title": "Electrical",
+                "items": [
+                  "Wires - Fireproof wires by Anchor/Polycab",
+                  "Switches & Sockets - Anchor",
+                  "The electrical points shall be provided as per the Electrical drawings provided.",
+                  "All wiring shall be done with fire proof wires of Anchor or equivalent make",
+                  "All switches and sockets shall be provided of - Anchor Roma make or equivalent",
+                  "One MCB board of Anchor/Finolex or equivalent make shall be provided",
+                  "Main panel board shall be in the Owner's scope including road cutting charges and main-line from pole to panel board"
+                ]
+              },
+              {
+                "title": "Miscellaneous",
+                "items": [
+                  "Overhead Tank - Sintex Double Layered 1500 ltrs.Platform for the OHT shall be charged additional based on the design.",
+                  "Underground sump of - 6000L shall be provided with Concrete block masonry. The inside of the wall shall be provided with chicken mesh plastering. MS cover plate of dimension 600 mm x 600 mm shall be provided. Water Proofing chemical be applied to mortar for plastering.",
+                  "Staircase Railing - A simple pattern Staircase Railing shall be in MS of - upto Rs. 400 per Rft for material, painting, welding, fixing, and finishing",
+                  "Rolling Shutter shall be charged additional. If required additional, a Mild Steel Rolling Shutter shall be provided.",
+                  "Compound Wall shall be charged additional. If required additional, the compound wall shall be in solid cement block masonry with 5 feet height from the ground level and 115 mm in thickness. Buttress/columns shall be provided for every 10 feet length of the compound. Expansion joints may be provided wherever necessary. The compound wall shall be constructed on size stone masonry foundation of minimum thickness 450mm and minimum depth 2 feet. The foundation shall be laid on compacted hard soil. Bed concrete of minimum thickness 80mm shall be provided below the foundation. Compound wall shall be plastered and painted as per the plastering and painting specifications",
+                  "Balcony and Utility railings along with the Terrace parapet railings if opted for shall be charged additional",
+                  "Elevation of the building on all sides shall include basic plastering and external painting with no other aesthetic elements like cladding, pergola, etc.",
+                  "Weather proof course shall be provided at terrace with one coat of waterproofing agent of Dr. Fixit brand or equivalent",
+                  "Rain water harvesting is included and shall be provided as per BBMP norms at - INR 20,000",
+                  "An additional Sintex Double layered overhead tank capacity shall be chargeable at INR 9 per L. Platform for the OHT shall be charged additional based on the design and specifications"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Standard Package: 1599/sqft Inc.GST",
+            "features": [
+              {
+                "title": "Designs & Drawings",
+                "items": [
+                  "Architectural Layout | 2D / 3D",
+                  "MEP Drawings",
+                  "Structural Design",
+                  "3D Elevation"
+                ]
+              },
+              {
+                "title": "Earth Work",
+                "items": [
+                  "The Foundation has been assumed as Isolated footings in regular Soil of Bearing Capacity 180kN/m^2 and above. For soil conditions requiring specialized foundation design or/and additional depth of excavation additional charges will be applicable.",
+                  "In case of rocky terrains, excavation cost shall be charged extra for foundation, sump, soak pit and other excavation at Rs. 35 per cubic feet",
+                  "Any Soil Bought up /Carting away will be client Scope"
+                ]
+              },
+
+              {
+                "title": "RCC and Masonary Works",
+                "items": [
+                  "RCC Framed Structure in M-25 grade Concrete in 20mm & 40mm Aggregates or as advised in the RCC Design Mix as per the Structural designer",
+                  "The Plinth level will be Provided at a height of 1 feet and 6 inches above the existing Ground Level. PCC of 100mm shall be Provided at the Plinth Level below the Ground floor Flooring.",
+                  "Internal plastering (1:5 Cement mortar) and Ceiling Plastering (1:4 Cement mortar) shall be done by 15 mm thickness",
+                  "External plastering (1:5 Cement mortar) 1st Coat and (1:3 Cement mortar) in second coat shall be done by total 20 mm thickness",
+                  "Water proofing compound of Fosroc/ equivalent brand shall be used in the external plastering. and mortar mix used in fixing washroom tiles",
+                  "Steel - JSW or equivalent",
+                  "Cement - ACC,Birla or Zuari or equivalent 43 or 53 grade",
+                  "Chicken mesh shall be used near beams, column & masonry wall junction and at the chasing for electrical conduits.",
+                  "Blockwork Masonry in Standard Solid Concrete Blocks with Plaster as per the design 4 inche for internal Partitions and 6 inche for External Walls.",
+                  "M-Sand shall be used for Masonry and P-Sand shall be used for Plastering",
+                  "Through Lintels shall be provided only over openings with bearing of 1feet into the edge of the openings. For providing concrete band all around, additional Charges shall be applicable.",
+                  "Water proofing shall be done in the terrace slab, all washrooms and balconies using Fosroc / Dr Fixit Brush bond or equivalent brands."
+                ]
+              },
+              {
+                "title": "Bathroom",
+                "items": [
+                  "Ceramic wall tiles will be provided upto 7 feet- 0 inches above the Finished Floor Level of - upto INR 60 per Sft",
+                  "Bathroom Flooring - Anti-skid tiles of value upto Rs.50/- per sqft",
+                  "Spacer joints shall be provided in the floor tiles and the wall dado tiles. Grouting shall be of polymeric cement grout of Roff/ Weber/ equivalent brands",
+                  "External pipes shall be fixed on raised clamps",
+                  "CPVC Pipe - Astral or equivalent",
+                  "Sanitary ware and CP fittings of - upto INR 40,000 are included per 1000 sft of Package Built Up area. Additional Sanitary Ware and CP Fittings will be charged on a Pro-Rata Basis. One number EWC, Health Faucet, Wash Basin, Basin Mixer, Overhead Shower with 2 in 1 Shower wall Mixer of Hindware/Parryware make is included. Plumbing shall be carried out in CPVC Pipes of Ashirwad/Supreme or Equivalent Make"
+                ]
+              },
+              {
+                "title": "Windows",
+                "items": [
+                  "Windows shall be 3 Track Premium UPVC of guage 92mm of make Apollo of - Rs. 400 per sft with 2 Glass and 1 mesh shutters, including all fixtures and fittings",
+                  "Window Grills of upto INR 150 per sft shall be provided of 10mm thick MS rods with maximum spacing 125mm between rods in either direction"
+                ]
+              },
+              {
+                "title": "Painting",
+                "items": [
+                  "All MS Steel grills and railings shall be painted with an anti corrosion coat with a final coat of Enamel Paint",
+                  "Interior Painting - Primer 1 Coat + Birla Putty 2 Coat + Tractor Emulsion or equivalent 2 Coats",
+                  "Exterior Painting - 1 Coat Asian Primer + Ace Exterior Emulsion weatherproof Paint or equivalent 2 Coats"
+                ]
+              },
+              {
+                "title": "Flooring",
+                "items": [
+                  "Flooring shall be in Vitrified Tiles or Granite of - upto INR 80 per sft",
+                  "Staircase flooring shall be in Sadderahalli Granite of - upto INR 70 per sft",
+                  "Skirting shall be of matching Vitrified Tiles or Granite not less than 75mm high",
+                  "Ceramic tiles for walls shall be free from cracks, spots, grazes, chipped edges and corners. Variation in size shall be limited to +/- 1.5 mm. Thickness shall be as specified, but in no case shall they be less than 6 mm",
+                  "Granite if used shall be hard, sound, free from cracks, cavities, holes, patches of injurious veins, weathered portions, flaws, etc. Granite used should have a minimum thickness of 19 mm"
+                ]
+              },
+              {
+                "title": "Electrical",
+                "items": [
+                  "Wires - Fireproof wires by Anchor/Polycab",
+                  "Switches & Sockets - Anchor",
+                  "The electrical points shall be provided as per the Electrical drawings provided.",
+                  "All wiring shall be done with fire proof wires of Anchor or equivalent make",
+                  "All switches and sockets shall be provided of - Anchor Roma make or equivalent",
+                  "One MCB board of Anchor/Finolex or equivalent make shall be provided",
+                  "Main panel board shall be in the Owner's scope including road cutting charges and main-line from pole to panel board"
+                ]
+              },
+              {
+                "title": "Miscellaneous",
+                "items": [
+                  "Overhead Tank - Sintex Double Layered 2000 ltrs.Platform for the OHT shall be charged additional based on the design.",
+                  "Underground sump of - 10000L shall be provided with Concrete block masonry. The inside of the wall shall be provided with chicken mesh plastering. MS cover plate of dimension 600 mm x 600 mm shall be provided. Water Proofing chemical be applied to mortar for plastering.",
+                  "Staircase Railing - A simple pattern Staircase Railing shall be in SS of - upto Rs. 650 per Rft for material, painting, welding, fixing, and finishing",
+                  "Rolling Shutter shall be charged additional. If required additional, a Mild Steel Rolling Shutter shall be provided.",
+                  "Compound Wall shall be charged additional. If required additional, the compound wall shall be in solid cement block masonry with 5 feet height from the ground level and 115 mm in thickness. Buttress/columns shall be provided for every 10 feet length of the compound. Expansion joints may be provided wherever necessary. The compound wall shall be constructed on size stone masonry foundation of minimum thickness 450mm and minimum depth 2 feet. The foundation shall be laid on compacted hard soil. Bed concrete of minimum thickness 80mm shall be provided below the foundation. Compound wall shall be plastered and painted as per the plastering and painting specifications",
+                  "Balcony and Utility railings along with the Terrace parapet railings if opted for shall be charged additional",
+                  "Elevation of the building on all sides shall include basic plastering and external painting with no other aesthetic elements like cladding, pergola, etc.",
+                  "Weather proof course shall be provided at terrace with one coat of waterproofing agent of Dr. Fixit brand or equivalent",
+                  "Rain water harvesting is included and shall be provided as per BBMP norms at - INR 20,000",
+                  "An additional Sintex Double layered overhead tank capacity shall be chargeable at INR 9 per L. Platform for the OHT shall be charged additional based on the design and specifications"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Mysuru",
+        "packages": [
+          {
+            "name": " Basic Package: 1499/sqft Inc.GST",
+            "features": [
+              {
+                "title": "Designs & Drawings",
+                "items": [
+                  "Architectural Layout | 2D / 3D",
+                  "MEP Drawings",
+                  "Structural Design",
+                  "3D Elevation"
+                ]
+              },
+              {
+                "title": "Earth Work",
+                "items": [
+                  "The Foundation has been assumed as Isolated footings in regular Soil of Bearing Capacity 180kN/m^2 and above. For soil conditions requiring specialized foundation design or/and additional depth of excavation additional charges will be applicable.",
+                  "In case of rocky terrains, excavation cost shall be charged extra for foundation, sump, soak pit and other excavation at Rs. 35 per cubic feet",
+                  "Any Soil Bought up /Carting away will be client Scope"
+                ]
+              },
+
+              {
+                "title": "RCC and Masonary Works",
+                "items": [
+                  "RCC Framed Structure in M-25 grade Concrete in 20mm & 40mm Aggregates or as advised in the RCC Design Mix as per the Structural designer",
+                  "The Plinth level will be Provided at a height of 1 feet and 6 inches above the existing Ground Level. PCC of 100mm shall be Provided at the Plinth Level below the Ground floor Flooring.",
+                  "Internal plastering (1:5 Cement mortar) and Ceiling Plastering (1:4 Cement mortar) shall be done by 15 mm thickness",
+                  "External plastering (1:5 Cement mortar) 1st Coat and (1:3 Cement mortar) in second coat shall be done by total 20 mm thickness",
+                  "Water proofing compound of Fosroc/ equivalent brand shall be used in the external plastering. and mortar mix used in fixing washroom tiles",
+                  "Steel - Sunvik, Kamadhenu or equivalent",
+                  "Cement - ACC,Birla or Zuari or equivalent 43 or 53 grade",
+                  "Chicken mesh shall be used near beams, column & masonry wall junction and at the chasing for electrical conduits.",
+                  "Blockwork Masonry in Standard Solid Concrete Blocks with Plaster as per the design 4 inche for internal Partitions and 6 inche for External Walls.",
+                  "M-Sand shall be used for Masonry and P-Sand shall be used for Plastering",
+                  "Cut-Lintels shall be provided only over openings with bearing of 1feet into the edge of the openings. For providing concrete band all around, additional Charges shall be applicable.",
+                  "Water proofing shall be done in the terrace slab, all washrooms and balconies using Fosroc / Dr Fixit Brush bond or equivalent brands."
+                ]
+              },
+              {
+                "title": "Bathroom",
+                "items": [
+                  "Ceramic wall tiles will be provided upto 7 feet- 0 inches above the Finished Floor Level of - upto INR 50 per Sft",
+                  "Bathroom Flooring - Anti-skid tiles of value upto Rs.40/- per sqft",
+                  "Spacer joints shall be provided in the floor tiles and the wall dado tiles. Grouting shall be of polymeric cement grout of Roff/ Weber/ equivalent brands",
+                  "External pipes shall be fixed on raised clamps",
+                  "CPVC Pipe - Astral or equivalent",
+                  "Sanitary ware and CP fittings of - upto INR 30,000 are included per 1000 sft of Package Built Up area. Additional Sanitary Ware and CP Fittings will be charged on a Pro-Rata Basis. One number EWC, Health Faucet, Wash Basin, Basin Mixer, Overhead Shower with 2 in 1 Shower wall Mixer of Hindware/Parryware make is included. Plumbing shall be carried out in CPVC Pipes of Ashirwad/Supreme or Equivalent Make"
+                ]
+              },
+              {
+                "title": "Windows",
+                "items": [
+                  "Windows shall be 3 Track Premium UPVC of guage 92mm of make Apollo of - Rs. 300 per sft with 2 Glass and 1 mesh shutters, including all fixtures and fittings",
+                  "Window Grills of upto INR 110 per sft shall be provided of 10mm thick MS rods with maximum spacing 125mm between rods in either direction"
+                ]
+              },
+              {
+                "title": "Painting",
+                "items": [
+                  "All MS Steel grills and railings shall be painted with an anti corrosion coat with a final coat of Enamel Paint",
+                  "Interior Painting - Primer 1 Coat + Birla Putty 2 Coat + Tractor Emulsion or equivalent 2 Coats",
+                  "Exterior Painting - 1 Coat Asian Primer + Ace Exterior Emulsion weatherproof Paint or equivalent 2 Coats"
+                ]
+              },
+              {
+                "title": "Flooring",
+                "items": [
+                  "Flooring shall be in Vitrified Tiles or Granite of - upto INR 60 per sft",
+                  "Staircase flooring shall be in Sadderahalli Granite of - upto INR 70 per sft",
+                  "Skirting shall be of matching Vitrified Tiles or Granite not less than 75mm high",
+                  "Ceramic tiles for walls shall be free from cracks, spots, grazes, chipped edges and corners. Variation in size shall be limited to +/- 1.5 mm. Thickness shall be as specified, but in no case shall they be less than 6 mm",
+                  "Granite if used shall be hard, sound, free from cracks, cavities, holes, patches of injurious veins, weathered portions, flaws, etc. Granite used should have a minimum thickness of 19 mm"
+                ]
+              },
+              {
+                "title": "Electrical",
+                "items": [
+                  "Wires - Fireproof wires by Anchor/Polycab",
+                  "Switches & Sockets - Anchor",
+                  "The electrical points shall be provided as per the Electrical drawings provided.",
+                  "All wiring shall be done with fire proof wires of Anchor or equivalent make",
+                  "All switches and sockets shall be provided of - Anchor Roma make or equivalent",
+                  "One MCB board of Anchor/Finolex or equivalent make shall be provided",
+                  "Main panel board shall be in the Owner's scope including road cutting charges and main-line from pole to panel board"
+                ]
+              },
+              {
+                "title": "Miscellaneous",
+                "items": [
+                  "Overhead Tank - Sintex Double Layered 1500 ltrs.Platform for the OHT shall be charged additional based on the design.",
+                  "Underground sump of - 6000L shall be provided with Concrete block masonry. The inside of the wall shall be provided with chicken mesh plastering. MS cover plate of dimension 600 mm x 600 mm shall be provided. Water Proofing chemical be applied to mortar for plastering.",
+                  "Staircase Railing - A simple pattern Staircase Railing shall be in MS of - upto Rs. 400 per Rft for material, painting, welding, fixing, and finishing",
+                  "Rolling Shutter shall be charged additional. If required additional, a Mild Steel Rolling Shutter shall be provided.",
+                  "Compound Wall shall be charged additional. If required additional, the compound wall shall be in solid cement block masonry with 5 feet height from the ground level and 115 mm in thickness. Buttress/columns shall be provided for every 10 feet length of the compound. Expansion joints may be provided wherever necessary. The compound wall shall be constructed on size stone masonry foundation of minimum thickness 450mm and minimum depth 2 feet. The foundation shall be laid on compacted hard soil. Bed concrete of minimum thickness 80mm shall be provided below the foundation. Compound wall shall be plastered and painted as per the plastering and painting specifications",
+                  "Balcony and Utility railings along with the Terrace parapet railings if opted for shall be charged additional",
+                  "Elevation of the building on all sides shall include basic plastering and external painting with no other aesthetic elements like cladding, pergola, etc.",
+                  "Weather proof course shall be provided at terrace with one coat of waterproofing agent of Dr. Fixit brand or equivalent",
+                  "Rain water harvesting is included and shall be provided as per BBMP norms at - INR 20,000",
+                  "An additional Sintex Double layered overhead tank capacity shall be chargeable at INR 9 per L. Platform for the OHT shall be charged additional based on the design and specifications"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Standard Package: 1599/sqft Inc.GST",
+            "features": [
+              {
+                "title": "Designs & Drawings",
+                "items": [
+                  "Architectural Layout | 2D / 3D",
+                  "MEP Drawings",
+                  "Structural Design",
+                  "3D Elevation"
+                ]
+              },
+              {
+                "title": "Earth Work",
+                "items": [
+                  "The Foundation has been assumed as Isolated footings in regular Soil of Bearing Capacity 180kN/m^2 and above. For soil conditions requiring specialized foundation design or/and additional depth of excavation additional charges will be applicable.",
+                  "In case of rocky terrains, excavation cost shall be charged extra for foundation, sump, soak pit and other excavation at Rs. 35 per cubic feet",
+                  "Any Soil Bought up /Carting away will be client Scope"
+                ]
+              },
+
+              {
+                "title": "RCC and Masonary Works",
+                "items": [
+                  "RCC Framed Structure in M-25 grade Concrete in 20mm & 40mm Aggregates or as advised in the RCC Design Mix as per the Structural designer",
+                  "The Plinth level will be Provided at a height of 1 feet and 6 inches above the existing Ground Level. PCC of 100mm shall be Provided at the Plinth Level below the Ground floor Flooring.",
+                  "Internal plastering (1:5 Cement mortar) and Ceiling Plastering (1:4 Cement mortar) shall be done by 15 mm thickness",
+                  "External plastering (1:5 Cement mortar) 1st Coat and (1:3 Cement mortar) in second coat shall be done by total 20 mm thickness",
+                  "Water proofing compound of Fosroc/ equivalent brand shall be used in the external plastering. and mortar mix used in fixing washroom tiles",
+                  "Steel - JSW or equivalent",
+                  "Cement - ACC,Birla or Zuari or equivalent 43 or 53 grade",
+                  "Chicken mesh shall be used near beams, column & masonry wall junction and at the chasing for electrical conduits.",
+                  "Blockwork Masonry in Standard Solid Concrete Blocks with Plaster as per the design 4 inche for internal Partitions and 6 inche for External Walls.",
+                  "M-Sand shall be used for Masonry and P-Sand shall be used for Plastering",
+                  "Through Lintels shall be provided only over openings with bearing of 1feet into the edge of the openings. For providing concrete band all around, additional Charges shall be applicable.",
+                  "Water proofing shall be done in the terrace slab, all washrooms and balconies using Fosroc / Dr Fixit Brush bond or equivalent brands."
+                ]
+              },
+              {
+                "title": "Bathroom",
+                "items": [
+                  "Ceramic wall tiles will be provided upto 7 feet- 0 inches above the Finished Floor Level of - upto INR 60 per Sft",
+                  "Bathroom Flooring - Anti-skid tiles of value upto Rs.50/- per sqft",
+                  "Spacer joints shall be provided in the floor tiles and the wall dado tiles. Grouting shall be of polymeric cement grout of Roff/ Weber/ equivalent brands",
+                  "External pipes shall be fixed on raised clamps",
+                  "CPVC Pipe - Astral or equivalent",
+                  "Sanitary ware and CP fittings of - upto INR 40,000 are included per 1000 sft of Package Built Up area. Additional Sanitary Ware and CP Fittings will be charged on a Pro-Rata Basis. One number EWC, Health Faucet, Wash Basin, Basin Mixer, Overhead Shower with 2 in 1 Shower wall Mixer of Hindware/Parryware make is included. Plumbing shall be carried out in CPVC Pipes of Ashirwad/Supreme or Equivalent Make"
+                ]
+              },
+              {
+                "title": "Windows",
+                "items": [
+                  "Windows shall be 3 Track Premium UPVC of guage 92mm of make Apollo of - Rs. 400 per sft with 2 Glass and 1 mesh shutters, including all fixtures and fittings",
+                  "Window Grills of upto INR 150 per sft shall be provided of 10mm thick MS rods with maximum spacing 125mm between rods in either direction"
+                ]
+              },
+              {
+                "title": "Painting",
+                "items": [
+                  "All MS Steel grills and railings shall be painted with an anti corrosion coat with a final coat of Enamel Paint",
+                  "Interior Painting - Primer 1 Coat + Birla Putty 2 Coat + Tractor Emulsion or equivalent 2 Coats",
+                  "Exterior Painting - 1 Coat Asian Primer + Ace Exterior Emulsion weatherproof Paint or equivalent 2 Coats"
+                ]
+              },
+              {
+                "title": "Flooring",
+                "items": [
+                  "Flooring shall be in Vitrified Tiles or Granite of - upto INR 80 per sft",
+                  "Staircase flooring shall be in Sadderahalli Granite of - upto INR 70 per sft",
+                  "Skirting shall be of matching Vitrified Tiles or Granite not less than 75mm high",
+                  "Ceramic tiles for walls shall be free from cracks, spots, grazes, chipped edges and corners. Variation in size shall be limited to +/- 1.5 mm. Thickness shall be as specified, but in no case shall they be less than 6 mm",
+                  "Granite if used shall be hard, sound, free from cracks, cavities, holes, patches of injurious veins, weathered portions, flaws, etc. Granite used should have a minimum thickness of 19 mm"
+                ]
+              },
+              {
+                "title": "Electrical",
+                "items": [
+                  "Wires - Fireproof wires by Anchor/Polycab",
+                  "Switches & Sockets - Anchor",
+                  "The electrical points shall be provided as per the Electrical drawings provided.",
+                  "All wiring shall be done with fire proof wires of Anchor or equivalent make",
+                  "All switches and sockets shall be provided of - Anchor Roma make or equivalent",
+                  "One MCB board of Anchor/Finolex or equivalent make shall be provided",
+                  "Main panel board shall be in the Owner's scope including road cutting charges and main-line from pole to panel board"
+                ]
+              },
+              {
+                "title": "Miscellaneous",
+                "items": [
+                  "Overhead Tank - Sintex Double Layered 2000 ltrs.Platform for the OHT shall be charged additional based on the design.",
+                  "Underground sump of - 10000L shall be provided with Concrete block masonry. The inside of the wall shall be provided with chicken mesh plastering. MS cover plate of dimension 600 mm x 600 mm shall be provided. Water Proofing chemical be applied to mortar for plastering.",
+                  "Staircase Railing - A simple pattern Staircase Railing shall be in SS of - upto Rs. 650 per Rft for material, painting, welding, fixing, and finishing",
+                  "Rolling Shutter shall be charged additional. If required additional, a Mild Steel Rolling Shutter shall be provided.",
+                  "Compound Wall shall be charged additional. If required additional, the compound wall shall be in solid cement block masonry with 5 feet height from the ground level and 115 mm in thickness. Buttress/columns shall be provided for every 10 feet length of the compound. Expansion joints may be provided wherever necessary. The compound wall shall be constructed on size stone masonry foundation of minimum thickness 450mm and minimum depth 2 feet. The foundation shall be laid on compacted hard soil. Bed concrete of minimum thickness 80mm shall be provided below the foundation. Compound wall shall be plastered and painted as per the plastering and painting specifications",
+                  "Balcony and Utility railings along with the Terrace parapet railings if opted for shall be charged additional",
+                  "Elevation of the building on all sides shall include basic plastering and external painting with no other aesthetic elements like cladding, pergola, etc.",
+                  "Weather proof course shall be provided at terrace with one coat of waterproofing agent of Dr. Fixit brand or equivalent",
+                  "Rain water harvesting is included and shall be provided as per BBMP norms at - INR 20,000",
+                  "An additional Sintex Double layered overhead tank capacity shall be chargeable at INR 9 per L. Platform for the OHT shall be charged additional based on the design and specifications"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

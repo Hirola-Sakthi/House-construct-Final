@@ -1,0 +1,134 @@
+.CommercialForm-parent{
+    background-color: rgb(255 246 244);
+    padding: 40px 0px;
+    .CommercialForm-title{
+        text-align: center;
+        h1{
+            font-size: 42px;
+            font-weight: 600;
+        }
+        p{
+            font-size: 18px;
+            padding: 10px 0px 30px;
+            font-weight: 400;
+        }
+    }
+    .CommercialForm-sub{
+        form{
+            .col-md-8{
+                .row{
+                    background-color: #fff;
+                    border-radius: 12px;
+                    box-shadow: 0px 0px 10px -5px;
+                    padding: 30px;
+                    input,select{
+                        width: 100%;
+                        height: 40px;
+                        margin-bottom: 20px;
+                        border-bottom:1px solid #d2d2d2;
+                        border-top: none;
+                        border-right: none;
+                        border-left: none;
+                        transition: border-color 0.2s;
+                        outline: none;
+                        &:focus{
+                            border-bottom: 2px solid rgb(227 165 29);
+                        }
+                    }
+                    select{
+                        margin-top: 10px;
+                    }
+                    .privacy-policy{
+                        .privacy-policy-sub{
+                            display: flex;
+                            gap: 6px;
+                            margin-top:35px;
+                            span,a{
+                                color:rgb(227 165 29);
+                            }
+                            p{
+                            font-size: 12px;
+                            }
+                        }
+                        button{
+                            background-color: rgb(227 165 29);
+                            padding: 0.4rem 3rem;
+                            color: rgb(255, 255, 255);
+                            border-radius: 12px;
+                            border: none;
+                            margin: auto;
+                            display: flex;
+                            font-size: 20px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media only screen and (max-width:575px){
+    .CommercialForm-parent{
+        background-color: rgb(255 246 244);
+        padding:0px 0px 30px;
+        .CommercialForm-title{
+            h1{
+                font-size:24px;
+            }
+            p{
+                font-size: 16px;
+                padding: 10px 0px 0px;
+            }
+        }
+        .CommercialForm-sub{
+            form{
+                .col-md-8{
+                    .row{
+                        padding: 15px;
+                        margin: -2px;
+                        input,select{
+                            margin-bottom: 10px;
+                        }
+                        .privacy-policy{
+                            .privacy-policy-sub{
+                            flex-direction: column;
+                            gap: 0px;
+                            margin-top: 10px;
+                            }
+                            button{
+                                font-size: 16px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+    .CommercialForm-parent{
+        .CommercialForm-title{
+            h1{
+                font-size: 32px;
+            }
+            p{
+                font-size: 17px;
+                padding: 10px 0px 10px;
+            }
+        }
+        .privacy-policy{
+            padding: 0;
+        }
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    .CommercialForm-parent{
+        .CommercialForm-title{
+            h1{
+                font-size: 36px;
+            }
+        }
+        .col-md-8{
+            width: 85%;
+        }
+    }
+}

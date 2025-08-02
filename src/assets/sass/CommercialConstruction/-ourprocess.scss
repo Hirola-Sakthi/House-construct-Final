@@ -1,0 +1,323 @@
+.OurProcess-component-parent{
+    background-color: rgba(255, 80, 41, 0.05);
+    padding: 40px 0;
+    .container{
+        .OurProcess-title{
+            padding-bottom:30px;
+            text-align: center;
+            h1{
+                font-size: 40px;
+                font-weight: 600;
+            }
+            p{
+                color: #757575;
+            }
+            h5{
+                color: #dfa51d;
+            }
+        }
+    .OurProcess-steps-parent{
+        width: 75%;
+        margin: auto;
+    }
+    .OurProcess-main-parent {
+        margin-top: 30px;
+        cursor: pointer;
+        .Process-content-parent{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            border: 1px solid #dfa51d;
+            width: 80%;
+            padding: 20px;
+            margin: auto;
+    
+            .Process-content-sub {
+                flex: 1; /* Take up remaining space */
+                display: flex;
+                flex-direction: column;
+                gap: 10px;
+                border-right: 1px solid #dfa51d;
+                padding-right: 10px;
+    
+                strong {
+                    font-size: 20px;
+                    font-weight: 600;
+                }
+    
+                p {
+                    font-weight: 400;
+                    margin-top: 5px;
+                    margin-bottom: 0 !important;
+                }
+            }
+    
+            .Process-content-sub2 {
+                strong {
+                    font-size: 20px;
+                    font-weight: 600;
+                }
+    
+                p {
+                    font-weight: 400;
+                    margin-top: 5px;
+                    margin-bottom: 0 !important;
+                }
+    
+                a {
+                    font-size: 14px;
+                    text-decoration: none;
+                    color: #dfa51d;
+                    font-weight: 500;
+                    width: 15%;
+                    &:hover{
+                        text-decoration: underline;
+                    }
+                }
+            }
+    
+            a {
+                font-size: 18px;
+                text-decoration: none;
+                color: #dfa51d;
+                font-weight: 500;
+                width: 15%;
+                text-align: center;
+                &:hover{
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+    
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-process .ant-steps-item-icon {
+        background-color: #000 !important;
+        border-color: #fff !important;
+        color: #fff !important;
+    }
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-finish>.ant-steps-item-container>.ant-steps-item-tail::after {
+        background-color: transparent;
+    }
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-process .ant-steps-item-icon{
+        background-color: #000 !important;
+        border-color: #fff !important;
+        color: #fff !important;
+    }
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-icon{
+        background:#fff !important;
+        border-color: #000 !important;
+        color: #000 !important;   
+    }
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-finish .ant-steps-item-icon{
+        background-color: #000 !important;
+        border-color: #fff !important;
+        color: #fff !important;
+    }
+    
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item:not(.ant-steps-item-active):not(.ant-steps-item-process)>.ant-steps-item-container[role='button']:hover .ant-steps-item-icon .ant-steps-icon {
+        /* color: #1677ff; */
+        color: #000 !important;
+    }
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item:not(.ant-steps-item-active):not(.ant-steps-item-process)>.ant-steps-item-container[role='button']:hover .ant-steps-item-icon {
+        border-color: #000000 !important;
+        /* color: #000; */
+    }
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-process>.ant-steps-item-container>.ant-steps-item-content>.ant-steps-item-title{
+        font-weight: 600;
+    }
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item:not(.ant-steps-item-active)>.ant-steps-item-container[role='button']:hover .ant-steps-item-title{
+        color: #000000 !important;
+    }
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-finish .ant-steps-item-icon > .ant-steps-icon {
+        color: #ffffff !important;
+    }
+    .ant-steps-item-title{
+        font-size: 14px !important;
+        
+    }
+    
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item:not(.ant-steps-item-active):not(.ant-steps-item-process) > .ant-steps-item-container[role=button]:hover .ant-steps-item-icon {
+        border-color: #000000 !important;
+        background: #fff !important;
+        /* color: #000; */
+    }
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item:not(.ant-steps-item-active):not(.ant-steps-item-process) > .ant-steps-item-container[role=button]:hover .ant-steps-item-icon .ant-steps-icon {
+        color: #000 !important;
+    }
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-tail::after{
+        position: absolute;
+        width: 100%;
+        height: 2px;
+        content: "";
+        right: 0;
+        top: 3px;
+        border-bottom:2px dashed #757575 !important;
+        z-index: -1;
+        background:none;
+    }
+    
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-wait .ant-steps-item-icon {
+        background-color: #fff !important;
+        border: 1px solid #000 !important;
+    }
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-title {
+        line-height: 20px !important;
+    }
+
+    }
+}
+@media only screen and (max-width:479px){
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps.ant-steps-vertical >.ant-steps-item:not(:last-child)>.ant-steps-item-container>.ant-steps-item-tail {
+        display: flex;
+        border-right: 1px solid;
+        transform: rotate(90deg);
+        position: absolute;
+        top: -24px;
+        left: 34px;
+    }
+}
+@media only screen and (min-width:480px) and (max-width:575px){
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps.ant-steps-vertical >.ant-steps-item:not(:last-child)>.ant-steps-item-container>.ant-steps-item-tail {
+        display: flex;
+        border-right: 1px solid;
+        transform: rotate(90deg);
+        position: absolute;
+        top: -24px;
+        left:50px;
+    }   
+}
+@media only screen and (max-width:575px){
+    .OurProcess-component-parent .container .OurProcess-title{
+        h1{
+            font-size: 26px;
+        }
+        h5{
+            font-size: 16px;
+        }
+    } 
+    .OurProcess-component-parent {
+        padding:0px 0 1px;
+        margin: 0px;
+    }
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-container {
+        outline: none;
+        display: flex;
+        flex-direction: column;
+        width: 50px;
+    }
+    .OurProcess-component-parent .container :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-process > .ant-steps-item-container > .ant-steps-item-content > .ant-steps-item-title {
+        font-weight: 400;
+        font-size: 7px !important;
+        line-height: 12px !important;
+    }
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps.ant-steps-vertical {
+        display: flex;
+        flex-direction: row;
+    }
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-wait>.ant-steps-item-container>.ant-steps-item-content>.ant-steps-item-title {
+        font-size: 7px !important;
+    line-height: 13px !important;
+    }
+    .OurProcess-component-parent .container .OurProcess-steps-parent {
+        width: 100%;
+        margin: auto;
+        margin-left: 10px;
+    }
+    .OurProcess-component-parent .container :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-process .ant-steps-item-icon,.OurProcess-component-parent .container :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-icon  {
+        background-color: #000 !important;
+        border-color: #fff !important;
+        color: #fff !important;
+        height: 24px;
+        width: 24px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: -5px;
+        z-index: 99;
+    }
+
+    .OurProcess-component-parent .container :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-wait .ant-steps-item-icon {
+        background-color: #fff !important;
+        border: 1px solid #000 !important;
+        height: 24px;
+        width: 24px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: -5px;
+    }
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-finish>.ant-steps-item-container>.ant-steps-item-content>.ant-steps-item-title {
+        font-size: 10px !important;
+    }
+    .OurProcess-component-parent .container .OurProcess-main-parent .Process-content-parent .Process-content-sub {
+        flex-direction: column;
+        gap: 0px;
+        border-right:none;
+    }
+    .OurProcess-component-parent .container .OurProcess-main-parent .Process-content-parent a,.OurProcess-component-parent .container .OurProcess-main-parent .Process-content-parent{
+        width: 100%;
+        flex-direction: column;
+    }
+    .OurProcess-component-parent .container .OurProcess-main-parent .Process-content-parent .Process-content-sub {
+        border-right: none;
+    }
+    .OurProcess-component-parent .container .OurProcess-main-parent .Process-content-parent .Process-content-sub2 strong,.OurProcess-component-parent .container .OurProcess-main-parent .Process-content-parent .Process-content-sub2 p{
+        font-size: 15px;
+    }
+    .OurProcess-component-parent .container .OurProcess-main-parent .Process-content-parent .Process-content-sub strong{
+        font-size: 16px;
+    }
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-finish > .ant-steps-item-container > .ant-steps-item-content > .ant-steps-item-title {
+        font-size: 7px !important;
+        line-height: 12px !important;
+    }
+}
+
+@media only screen and (min-width:576px) and (max-width:767px){
+    .OurProcess-component-parent .container{
+        max-width: 100% !important;
+        .OurProcess-steps-parent {
+            width: 85%;
+                margin: auto;
+        }
+    }
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps.ant-steps-label-vertical .ant-steps-item-content {
+        width: 50px;
+    }
+    .OurProcess-component-parent .container :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-wait .ant-steps-item-icon,.OurProcess-component-parent .container :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-process .ant-steps-item-icon,.OurProcess-component-parent .container :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-finish .ant-steps-item-icon {
+        height: 25px;
+        width: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+    }
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps.ant-steps-label-vertical .ant-steps-item-tail {
+        margin-inline-start: 0px;
+    }
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-process>.ant-steps-item-container>.ant-steps-item-content>.ant-steps-item-title,:where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-wait>.ant-steps-item-container>.ant-steps-item-content>.ant-steps-item-title,:where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-finish>.ant-steps-item-container>.ant-steps-item-content>.ant-steps-item-title {
+        font-size: 10px !important;
+    }
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps.ant-steps-label-vertical .ant-steps-item {
+        overflow: visible;
+        width: 20% !important;
+    }
+    :where(.css-dev-only-do-not-override-42nv3w).ant-steps .ant-steps-item-tail {
+        top: 10px;
+    }
+
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    .OurProcess-component-parent .container .OurProcess-steps-parent {
+        width: 100%;
+        margin: auto;
+    }
+    .OurProcess-component-parent .container .OurProcess-main-parent .Process-content-parent a{
+        font-size: 17px;
+    }
+    .OurProcess-component-parent .container .OurProcess-main-parent .Process-content-parent{
+        width: 100%;
+    }
+
+}

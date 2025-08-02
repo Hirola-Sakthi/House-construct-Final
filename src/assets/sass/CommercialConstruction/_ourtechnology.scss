@@ -1,0 +1,206 @@
+.OurTechnology-parent{
+    padding: 40px 0px;
+    .OurTechnology-title{
+        text-align: center;
+        h1{
+            font-size: 42px;
+            font-weight: 600;
+        }
+        p{
+            font-size: 18px;
+            padding: 10px 0px 30px;
+            font-weight: 400;
+        }
+    }
+    .OurTechnology-content{
+        .row{
+            align-items: center;
+            .col-md-6{
+                .OurTechnology-left-image{
+                    height: 450px;
+                    width: 100%;
+                    margin-top: -15px;
+                    img{
+                        height: 100%;
+                        width: 100%;
+                        object-fit: cover;
+                    }
+                }
+            }
+            .col-md-6{
+                .row{
+                    .col-md-6{
+                        .OurTechnology-right-content{
+                            display: flex;
+                            flex-direction: column;
+                            justify-content: center;
+                            align-items: center;
+                            text-align: center;
+                            padding: 25px 34px;
+                            margin-bottom: 25px;
+                            border: 1px solid rgb(246, 227, 225);
+                            background-color: rgb(226 226 255);
+                            h5{
+                                   color: #dfa51d;
+                                font-size: 20px;
+                                font-weight: 500;
+                                margin-top: 10px;
+                            }
+                            p{
+                            font-weight: 400;
+                            font-size: 16px;
+                            }
+                            .OurTechnology-right-content-sub{
+                                height: 80px;
+                                width: 80px;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+                                background: #fff;
+                                padding: 18px;
+                                border-radius: 50%;
+                                .OurTechnology-sub-image-parent{
+                                    height: 80px;
+                                    width: 80px;
+                                    img{
+                                        height: 100%;
+                                        width: 100%;
+                                        object-fit: contain;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .OurTechnology-content-below{
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            a{
+                   color: #dfa51d;
+                text-decoration: none;
+            }
+        }
+    }
+}
+@media only screen and (max-width:575px){
+    .OurTechnology-parent{
+        padding: 25px 0px 10px 0px;
+        .OurTechnology-title{
+            h1{
+                font-size: 26px;
+            }
+            p{
+                font-size: 16px;
+            }
+        }
+        .OurTechnology-content{
+            .row{
+                .col-md-6{
+                    .OurTechnology-left-image{
+                        height: 330px;
+                        margin-top: -25px;
+                        margin-bottom: 20px;
+                    }
+                }
+                .col-md-6{
+                    .row{
+                        .col-md-6{
+                            .OurTechnology-right-content{
+                                margin-bottom: 15px;
+                            }
+                        }
+                    }
+                   
+                }
+            }
+            .OurTechnology-content-below{
+                p{
+                    font-size: 13px;
+                    margin-top: 3px;
+                }
+                a{
+                    font-size: 13px;
+                }
+            }
+        }
+    }
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+    .OurTechnology-parent{
+        padding: 25px 0px;
+        .OurTechnology-title{
+            h1{
+                font-size: 30px;
+            }
+            p{
+                font-size: 16px;
+            }
+        }
+        .OurTechnology-content{
+            .row{
+                .col-md-6{
+                    .OurTechnology-left-image{
+                        height:360px;
+                        margin-bottom: 20px;
+                    }
+                }
+                .col-md-6{
+                    .row{
+                        .col-md-6{
+                            .OurTechnology-right-content{
+                                p{
+                                    font-size: 16px;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }  
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+    .OurTechnology-parent{
+        padding: 25px 0px;
+        .OurTechnology-title{
+            h1{
+                font-size: 36px;
+            }
+            p{
+                font-size: 16px;
+                padding: 10px 0px 0px;
+            }
+        }
+        .OurTechnology-content{
+            .row{
+                .col-md-6{
+                    .OurTechnology-left-image{
+                        height: 444px;
+                        margin-top: -1px;
+                        margin-bottom: 0;
+                    }
+                }
+                .col-md-6{
+                    .row{
+                        .col-md-6{
+                            padding: 10px;
+                            .OurTechnology-right-content{
+                                padding: 10px 10px;
+                                margin-bottom:0px;
+                                p{
+                                    font-size: 16px;
+                                }
+                                h5{
+                                    font-size: 16px;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }  
+    }  
+}

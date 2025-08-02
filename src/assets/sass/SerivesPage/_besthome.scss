@@ -1,0 +1,586 @@
+.Servicepage-main-parent .Button-for-CommercialConstruction{
+  display: none;
+}
+.best-home-parent {
+  .best-home-sub {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    .container {
+
+
+      .clsss-dsuj {
+        padding: 0;
+        width: 100%;
+        margin: 0;
+
+        .besthome-section-one {
+          padding: 50px 0;
+
+          .best-home-card-parent1 {
+            display: flex;
+
+            flex-wrap: wrap;
+            width: 100%;
+            gap: 20px;
+
+            .besthome-card1 {
+              background-color: white;
+              box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+              width: 48%;
+              padding: 26px 21px;
+
+
+
+              .best-home-sec1-img2 {
+                img {
+                  margin: auto;
+                  display: flex;
+                  align-items: center;
+                  padding-top: 0;
+                }
+              }
+
+              .best-home-sec1-text1 {
+
+                h5 {
+                  text-align: center;
+                  font-size: 20px;
+                  font-weight: 700;
+                  line-height: 28px;
+                  padding: 16px 0;
+                  margin: 0;
+                }
+
+                p {
+                  text-align: center;
+                  font-size: 16px;
+                  line-height: 22px;
+                }
+              }
+
+              .best-home-sec1-sub-img {
+                display: flex;
+                justify-content: center;
+
+                div {
+                  border: 1px solid #c7c9ca;
+                  border-radius: 50%;
+                  padding: 9px 10px;
+
+                  img {
+                    width: 25px;
+                    height: 25px;
+                    position: relative;
+                    left: 10px;
+                  }
+                }
+              }
+
+            }
+          }
+        }
+
+        .best-home-section2 {
+          margin: 0;
+          padding: 50px 0;
+
+          .besthome-indus-dess {
+            width: 84%;
+            margin: auto;
+
+            .besthome-sec2-paragraph {
+              h6 {
+                font-size: 16px;
+                font-weight: 500;
+                padding: 10px 0;
+              }
+
+              h2 {
+                font-size: 40px;
+                font-weight: 700;
+                line-height: 52px;
+                padding: 8px 0;
+              }
+
+              p {
+                font-size: 16px;
+                padding: 5px 0;
+                font-weight: 400;
+                line-height: 28px;
+              }
+            }
+
+            .besthome-sec2-button {
+              .WhoweraeAbout-sub-viewmore-button {
+                display: flex;
+                gap: 10px;
+                font-size: 12px;
+                font-weight: 500;
+                letter-spacing: 0.22px;
+                fill: #000000;
+                color: #000000;
+                background-color: #02010100;
+                border-style: solid;
+                border-width: 3px 3px 3px 3px;
+                border-color: #E1E4E6;
+                border-radius: 25px;
+                padding: 12px 30px;
+                transition: all 0.1s linear;
+
+                svg {
+                  color: #c3921c;
+                  height: 20px;
+                  width: 20px;
+                }
+
+                a {
+                  text-decoration: none;
+                  color: #000000;
+                  font-size: 14px;
+                }
+
+                svg {
+                  font-size: 14px !important;
+                }
+
+                &:hover {
+                  border-color: #c3921c;
+                  background: #c3921c;
+
+                  a {
+                    color: #fff;
+                  }
+
+                  svg {
+                    color: #fff;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  .best-home-parent .best-home-sub .container .clsss-dsuj .besthome-section-one .best-home-card-parent1 .besthome-card1 {
+    width: 90% !important;
+    margin: auto !important;
+  }
+
+  .besthome-sec2-paragraph {
+    h2 {
+      font-size: 24px;
+      line-height: 30px;
+      padding: 0;
+    }
+  }
+}
+
+@media only screen and (min-width:575px) and (max-width:767px) {
+  .best-home-parent .best-home-sub .container .clsss-dsuj .best-home-section2 .besthome-indus-dess .besthome-sec2-paragraph h2 {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 47px;
+    padding: 10px 0;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .best-home-parent {
+    .best-home-sub {
+      .container {
+        padding:0 0 20px;
+        margin: auto;
+        width: 100%;
+
+        .clsss-dsuj {
+          gap: 30px;
+          flex-direction: column-reverse;
+
+          .besthome-section-one {
+            padding: 0;
+
+            .best-home-card-parent1 {
+              margin: auto;
+
+              .besthome-card1 {
+                width: 47%;
+                margin: auto;
+                padding: 14px 6px;
+
+                .best-home-sec1-text1 {
+                  width: 100%;
+                  margin: auto;
+                  gap: 12px;
+
+                  h5 {
+                    font-size: 16px;
+                    padding: 6px 0;
+                    margin: 0;
+                  }
+
+                  p {
+                    font-size: 15px;
+                    line-height: 20px;
+                  }
+                }
+
+                .best-home-sec1-sub-img {
+                  div {
+                    border: 1px solid #D7DBDE;
+                    border-radius: 50%;
+                    padding: 7px 10px;
+
+                    img {
+                      width: 100%;
+                      height: 100%;
+                      left: 8px;
+                      top: -3px;
+                    }
+                  }
+                }
+              }
+            }
+          }
+
+          .best-home-section2 {
+            padding: 0 10px;
+
+            .besthome-indus-dess {
+              width: 97%;
+              margin: auto;
+
+              .besthome-sec2-paragraph {
+                padding-top:0px;
+
+                h6 {
+                  font-size: 16px;
+                  font-weight: 500;
+                  padding: 10px 0;
+                  margin: 0;
+                }
+
+                h2 {
+                  font-size: 25px;
+                  font-weight: 700;
+                  line-height: 36px;
+                  padding: 8px 0;
+
+                }
+
+
+                p {
+                  padding: 0;
+                  font-size: 15px;
+                  line-height: 20px
+                }
+              }
+
+              .besthome-sec2-button {
+                .button-page {
+                  padding: 8px 12px;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .best-home-parent {
+    .best-home-sub {
+      .container {
+        padding: 50px 0;
+        margin: auto;
+        width: 100%;
+
+        .clsss-dsuj {
+
+          .besthome-section-one {
+            padding: 0;
+
+            .best-home-card-parent1 {
+              margin: auto;
+
+              .besthome-card1 {
+                width: 46%;
+                margin: auto;
+                padding: 10px 16px;
+
+                .best-home-sec1-text1 {
+                  width: 100%;
+                  margin: auto;
+
+                  h5 {
+                    font-size: 20px;
+                    padding: 10px 0px;
+                  }
+
+                  p {
+                    font-size: 15px;
+                    line-height: 20px;
+                  }
+                }
+
+                .best-home-sec1-sub-img {
+                  display: flex;
+                  justify-content: center;
+
+                  div {
+                    border: 1px solid #D7DBDE;
+                    border-radius: 50%;
+                    padding: 7px 10px;
+
+                    img {
+                      width: 100%;
+                      height: 100%;
+                    }
+                  }
+                }
+              }
+            }
+          }
+
+          .best-home-section2 {
+            padding: 0 5px;
+
+            .besthome-indus-dess {
+              width: 97%;
+              margin: auto;
+
+              .besthome-sec2-paragraph {
+                padding-top: 30px;
+
+                h6 {
+                  font-size: 16px;
+                  padding: 6px 0;
+                }
+
+                h2 {
+                  font-size: 28px;
+                  padding: 10px 0px;
+                }
+
+                p {
+                  padding: 0;
+                  font-size: 16px;
+                  line-height: 22px;
+                }
+              }
+
+              .besthome-sec2-button {
+                .button-page {
+                  padding: 5px 10px;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  .best-home-parent {
+    .best-home-sub {
+      .container {
+        padding: 60px 0;
+        margin: auto;
+        width: 100%;
+
+        .clsss-dsuj {
+
+          .besthome-section-one {
+            padding: 0;
+
+            .best-home-card-parent1 {
+              margin: auto;
+
+              .besthome-card1 {
+                width: 46%;
+                margin: auto;
+                padding: 8px 6px;
+
+                .best-home-sec1-img2 {
+                  img {
+                    padding: 2px 0;
+                  }
+                }
+
+                .best-home-sec1-text1 {
+                  width: 100%;
+                  margin: auto;
+
+                  h5 {
+                    font-size: 16px;
+                    padding: 5px 0;
+                    margin: 0;
+                  }
+
+                  p {
+                    font-size: 14px;
+                    line-height: 20px;
+                  }
+                }
+
+                .best-home-sec1-sub-img {
+                  div {
+                    border: 1px solid #D7DBDE;
+                    border-radius: 50%;
+                    padding: 7px 10px;
+
+                    img {
+                      width: 100%;
+                      height: 100%;
+                    }
+                  }
+                }
+              }
+            }
+          }
+
+          .best-home-section2 {
+            padding: 0 5px;
+
+            .besthome-indus-dess {
+              width: 90%;
+              margin: auto;
+
+              .besthome-sec2-paragraph {
+
+                h6 {
+                  font-size: 16px;
+                  font-weight: 500;
+                  padding: 10px 0;
+                  margin: 0;
+                }
+
+                h2 {
+                  font-size: 28px;
+                  font-weight: 700;
+                  line-height: 41px;
+                  padding: 0;
+                }
+
+                p {
+                  padding: 0;
+                }
+              }
+
+              .besthome-sec2-button {
+                .button-page {
+                  padding: 10px 15px;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (min-width:1201px) and (max-width:1440px) {
+  .best-home-parent {
+    .best-home-sub {
+      .container {
+        padding: 60px 0;
+        margin: auto;
+        width: 100%;
+
+        .clsss-dsuj {
+
+          .besthome-section-one {
+            padding: 0;
+
+            .best-home-card-parent1 {
+              margin: auto;
+
+              .besthome-card1 {
+                width: 46%;
+                margin: auto;
+                padding: 10px 8px;
+
+                .best-home-sec1-img2 {
+                  img {
+                    padding: 2px 0;
+                  }
+                }
+
+                .best-home-sec1-text1 {
+                  width: 100%;
+                  margin: auto;
+
+                  h5 {
+                    font-size: 18px;
+                    padding: 8px 0;
+                    margin: 0;
+                  }
+
+                  p {
+                    font-size: 15px;
+                    line-height: 22px;
+                  }
+                }
+
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.best-home-parent .best-home-sub .container .clsss-dsuj .besthome-section-one .best-home-card-parent1 .besthome-card1:hover {
+  background-image: url("/commercialconstruction/partnersbuilding.jpg");
+  background-size: cover;
+  color: white;
+
+  .best-home-sec1-img2 {
+    img {
+      filter: brightness(95.5);
+    }
+  }
+
+  .best-home-sec1-sub-img {
+
+    div {
+      background-color: #C3921C;
+      border: 1px solid #C3921C;
+
+      img {
+        filter: brightness(95.5);
+      }
+    }
+  }
+}
+
+.best-home-parent .best-home-sub .container .clsss-dsuj .besthome-section-one .best-home-card-parent1 .besthome-card1.no1:hover {
+  background-image: url("/commercialconstruction/partnersbuilding.jpg");
+  background-size: cover;
+}
+
+.best-home-parent .best-home-sub .container .clsss-dsuj .besthome-section-one .best-home-card-parent1 .besthome-card1.no2:hover {
+  background-image: url("/eco friendly houses.jpg");
+  background-size: cover;
+}
+
+.best-home-parent .best-home-sub .container .clsss-dsuj .besthome-section-one .best-home-card-parent1 .besthome-card1.no3:hover {
+  background-image: url("/interior design.jpg");
+  background-size: cover;
+}
+
+.best-home-parent .best-home-sub .container .clsss-dsuj .besthome-section-one .best-home-card-parent1 .besthome-card1.no4:hover {
+  background-image: url("/engineering-architecture.png");
+  background-size: cover;
+}

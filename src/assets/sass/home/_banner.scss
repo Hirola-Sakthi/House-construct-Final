@@ -1,0 +1,355 @@
+body{
+    font-family: "Jost", sans-serif !important;
+}
+h1{
+    font-weight: 600;
+}
+h2{
+    font-weight: 600;
+}
+h3{
+    font-weight: 600;
+}
+h4{
+    font-weight: 600;
+}
+h5{
+    font-weight: 600;
+}
+h6{
+    font-weight: 600;
+}
+p{
+    font-weight: 500;
+}
+.homepage-banner-parent {
+    .homepage-banner-subParent {
+      padding: 0;
+      width: 100%;
+      height: fit-content;
+      position: relative; /* Ensure relative positioning for absolute child elements */
+  
+      /* Styles for video background */
+      .fullscreen-video {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+  
+      /* Styles for banner content */
+      .banner-content {
+        position: relative; /* Establishes a stacking context */
+        width: 100%;
+        height:85vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #fff; /* Text color for overlay content */
+      }
+  
+      /* Styles for banner sub content (text) */
+      .banner-sub {
+        width:75%;
+        color: #000;
+        h5{
+            font-weight: 600;
+            position: relative;
+            z-index: 1;
+            font-size: 34px;
+        }
+      }
+  
+      h2, p{
+        font-family: "Jost", sans-serif;
+        font-weight: 400;
+        position: relative;
+        width: 75%;
+        z-index: 1;
+
+      }
+  
+      h2 {
+        font-size: 56px;
+        line-height: 70px;
+        letter-spacing: 0px;
+        padding: 10px 0;
+        font-weight: 600;
+      }
+  
+      p {
+        font-size: 18px;
+        line-height: 26px;
+      }
+  
+      /* Styles for banner button */
+      .banner-button {
+        display: flex;
+        justify-content: center;
+        margin-top: 25px;
+      }
+  
+      .banner-button a {
+        border-radius: 200px;
+        background-color: #c3921c;
+        color: white;
+        padding: 16px 24px;
+        text-decoration: none;
+      }
+  
+      /* Overlay effect */
+      .banner-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 2;
+      }
+    }
+  }
+  
+
+@media only screen and (max-width:575px) {
+    .homepage-banner-parent {
+        .homepage-banner-subParent {
+            height: fit-content;
+            padding: 0px 0;
+
+            .banner-content {
+                width: 100%;
+                height: fit-content;
+                padding-bottom: 60px;
+                .banner-sub{
+                    width: 90%;
+                    position: relative;
+                    top: 30px;
+                    h5{
+                        font-size: 20px;
+                        top: 25px;
+                        text-align: center;
+                    }
+                }
+
+                h2 {
+                    line-height: 38px;
+                    font-weight: 600;
+                    font-size: 24px;
+                    letter-spacing: -1px;
+                    padding: 30px 0px 10px 0px;
+                    position: relative;z-index: 999;
+                    color: #000;
+                    width: 100%;
+                    text-align: center;
+                }
+
+                p {
+                    width: 90%;
+                    font-size: 14px;
+                    font-weight: 500;
+                    position: relative;z-index: 999;
+                    color: #fff;
+                }
+
+                .banner-button {
+                    a {
+                        padding: 7px 14px;
+                        font-size: 14px;
+                        position: relative;z-index: 999;
+                    color: #fff;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (min-width:576px) and (max-width:767px) {
+    .homepage-banner-parent {
+        .homepage-banner-subParent {
+            height: fit-content;
+            padding: 0px 0;
+
+            .banner-content {
+                width: 100%;
+                height: fit-content;
+                padding-bottom: 60px;
+                .banner-sub{
+                    width: 90%;
+                    h5{
+                        font-size: 22px;
+                        left: 60px;
+                        top: 20px;
+                    }
+                }
+                h2 {
+                    line-height: 38px;
+                    font-weight: 600;
+                    width: 80%;
+                    margin: auto;
+                    font-size: 30px;
+                    letter-spacing: -1px;
+                    padding: 30px 0px 30px 0px;
+                }
+
+                p {
+                    width: 100%;
+                    font-size: 15px;
+                    font-weight: 600;
+                }
+
+                .banner-button {
+                    a {
+                        padding: 7px 14px;
+                        font-size: 14px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .homepage-banner-parent {
+        .homepage-banner-subParent {
+            height: fit-content;
+            padding: 0px 0;
+
+            .banner-content {
+                width: 100%;
+                height: fit-content;
+                padding-bottom: 60px;
+                .banner-sub{
+                    width: 70%;
+                    h5{
+                        top: 25px;
+                        font-size: 22px;                    
+                    }
+                }
+                h2 {
+                    line-height: 40px;
+                    font-weight: 600;
+                    font-size: 32px;
+                    letter-spacing: -1px;
+                    padding: 30px 0px 10px 0px;
+                }
+
+                p {
+                    width: 80%;
+                    font-size: 16px;
+                    margin: auto;
+                    font-weight: 600;
+                }
+
+                .banner-button {
+                    a {
+                        padding: 7px 14px;
+                        font-size: 14px;
+                    }
+                }
+            }
+        }
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .homepage-banner-parent {
+        .homepage-banner-subParent {
+            height: fit-content;
+            padding: 0px 0;
+
+            .banner-content {
+                width: 100%;
+                height: fit-content;
+                padding-bottom: 80px;
+                .banner-sub{
+                    height: fit-content;
+                    width: 80%;
+                    h5{
+                        top: 26px;
+                        font-size: 22px;
+                    }
+                }
+
+                h2 {
+                    line-height: 56px;
+                    font-weight: 600;
+                    font-size: 38px;
+                    letter-spacing: -1px;
+                    padding: 30px 0px 10px 0px;
+                }
+
+                p {
+                    width: 70%;
+                    font-size: 15px;
+                    font-weight: 600;
+                }
+
+                .banner-button {
+                    a {
+                        padding: 7px 14px;
+                        font-size: 14px;
+                    }
+                }
+            }
+        }
+    }  
+}
+
+.swiper-wrapper {
+    display: flex;
+    align-items: center; /* Center the slides vertically */
+  }
+  
+  .swiper-slide {
+    flex: 0 0 auto; /* Ensure the slides don't grow or shrink */
+    margin-right: 20px; /* Space between slides */
+  }
+  
+  /* Remove margin from last slide to prevent overflow */
+  .swiper-slide:last-child {
+    margin-right: 0;
+  }
+  .swiper-horizontal {
+    touch-action: pan-y;
+    overflow: hidden;
+}
+/* Add this CSS to your stylesheet */
+
+.swiper-wrapper {
+    display: flex;
+    width: 101%;
+    align-items: center;
+  }
+  
+  .swiper-slide {
+    flex: 0 0 auto;
+    margin-right: 20px;
+    position: relative; /* Position relative for the ripple effect */
+    overflow: hidden; /* Hide overflow to prevent ripple effect overflow */
+    cursor: pointer;
+  }
+  
+  .swiper-slide::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300%; /* Initial width of the ripple effect */
+    height: 300%; /* Initial height of the ripple effect */
+    // background-color: rgba(255, 255, 255, 0.5); /* Ripple effect color */
+    border-radius: 50%; /* Ensure a circular ripple */
+    transition: width 0.6s, height 0.6s, opacity 0.6s; /* Transition for the ripple effect */
+    transform: translate(-50%, -50%);
+    pointer-events: none; /* Ensure the ripple effect doesn't block clicks */
+  }
+  
+  .swiper-slide:hover::before {
+    width: 1000%; /* Expanded width of the ripple effect on hover */
+    height: 1000%; /* Expanded height of the ripple effect on hover */
+    opacity: 0; /* Make the ripple effect disappear on hover */
+  }

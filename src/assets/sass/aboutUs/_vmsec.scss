@@ -1,0 +1,90 @@
+.vm-sec-main {
+    background: url("/images/test-bg.webp");
+    padding: 50px 0px 60px 0px;
+    @media screen and (max-width:767px){
+        padding-bottom: 0;
+    }
+    @media only screen and (min-width: 768px) and (max-width: 991px){
+        padding: 20px 0px 0px 0px;
+    }
+    .container{
+      .first-row{
+        text-align: center;
+          color: #fff;
+          padding-bottom: 50px;
+          @media only screen and (max-width: 575px){
+              padding-bottom: 20px;
+          }
+          @media only screen and (min-width:576px) and (max-width:767px) {
+            text-align: left;
+          }
+          p{
+              font-size: 12px;
+              font-weight: 500;
+              letter-spacing: 2.3px;
+          }
+          .title{
+              color: white;
+              font-size: 57px;
+              line-height: 72px;
+              font-style: normal;
+              font-weight: 700;
+              line-height: normal;
+
+              @media only screen and (min-width: 315px) and (max-width: 553px){
+                  font-size: 24px;
+              }
+              @media only screen and (min-width: 554px) and (max-width: 767px){
+                  font-size: 26px;
+              }
+              @media only screen and (min-width: 768px) and (max-width: 991px){
+                  font-size: 32px;
+              }
+          }
+      }
+      .second-row{
+          .col-md-6{
+              padding-bottom: 20px;
+              hr{
+                  color: #fff;
+              }
+              .row{
+                  .topresidential-description-parent{
+                      display: flex;
+                      gap:15px;
+                      .topresidential-icon{
+                          color: #c3921c;
+                          svg{
+                              height: 40px;
+                              width: 50px;                            
+                          }
+                      }
+                      .title{
+                          padding-bottom: 5px;
+                          color: white;
+                          font-size: 22px;
+                          font-weight: 700;
+                      }
+                      .description{
+                          color: #B2BDC6;
+                          font-size: 16px;
+                          font-weight: 400;
+                          @media only screen and (min-width: 315px) and (max-width: 553px){
+                              padding-right: 15px;
+                              font-size: 15px;
+                          }
+                          @media only screen and (min-width: 554px) and (max-width: 767px){
+                              padding-right: 15px;
+                              font-size: 15px;
+                          }
+                          @media only screen and (min-width: 768px) and (max-width: 992px){
+                              padding-right: 15px;
+                          }
+                      }
+                  }
+                  
+              }
+          }
+      }
+  }
+}

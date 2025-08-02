@@ -1,0 +1,141 @@
+.HiringProcess-parent{
+    padding: 5px 0px 15px 0px;
+    .container-lg{
+        h1{
+            text-align: center !important;
+            font-weight: 700;
+            color: gray;
+            margin-bottom: 15px;
+            span{
+                color: #60b8c6;
+            }
+        }
+        h5{
+            text-align: center;
+        }
+        .row{
+            padding: 25px 0px;
+            .col-md-4{
+                .HiringProcess-subparent{
+                    display: flex;
+                    justify-content: space-between;
+                    box-shadow: 0 0 10px rgba(96, 184, 198, 0.5);
+                    padding: 20px;
+                    border-radius: 5px;
+                    height: 150px;
+                    align-items: center;
+                    transition: all 0.2s linear;
+                    &:hover{
+                        transform: translateY(10px);
+                    }
+                    .HiringProcess-sub-image{
+                        height: 80px;
+                        width:20%;
+                        img{
+                            height: 100%;
+                            width: 100%;
+                            object-fit: contain;
+                        }
+                    }
+                    .HiringProcess-sub-image-content{
+                        width: 75%;
+                        h3{
+                            color: #60b8c6;
+                            font-weight: 700;
+                        }
+                        p{
+                            margin: 0;
+                        }
+                    }
+
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:575px){
+    .HiringProcess-parent{
+        padding-bottom: 0;
+        .container-lg{
+            h5{
+                font-size: 16px;
+                text-align: center;
+            }
+            .row{
+                padding: 12px 0px;
+                .HiringProcess-subparent{
+                    margin-bottom: 15px;
+                    .HiringProcess-sub-image-content{
+                        p{
+                            font-size: 15px;
+                            font-weight: 400;
+                        }
+                    }
+                }
+            }
+        }
+    }   
+}
+@media screen and (min-width:576px) and (max-width:767px){
+    .HiringProcess-parent{
+        .container-lg{
+            h5{
+                font-size: 17px;
+                text-align: center;
+            }
+            .row{
+                padding: 12px 0px;
+                .col-md-4{
+                    width:50%;
+                    padding: 5px;
+                    .HiringProcess-subparent{
+                        padding: 20px 10px;
+                        .HiringProcess-sub-image-content{
+                            p{
+                                font-size: 14px;
+                                font-weight: 400;
+                            }
+                            h3{
+                                font-size: 18px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }    
+}
+@media screen and (min-width:768px) and (max-width:991px){
+    .HiringProcess-parent{
+        .container-lg{
+            .row{
+                padding: 12px 0px;
+                .col-md-4{
+                    padding: 5px;
+                    .HiringProcess-subparent{
+                        padding: 20px 10px;
+                        .HiringProcess-sub-image-content{
+                            p{
+                                font-size: 14px;
+                                font-weight: 400;
+                            }
+                            h3{
+                                font-size: 18px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }    
+}
+@media screen and (min-width:992px) and (max-width:1199px){
+    .HiringProcess-parent .container-lg .row .col-md-4 .HiringProcess-subparent .HiringProcess-sub-image-content{
+        p {
+            font-size: 15px;
+        }
+        h3{
+            font-size: 20px;
+        }
+    }
+}

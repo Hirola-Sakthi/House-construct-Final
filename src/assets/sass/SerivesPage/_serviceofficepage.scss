@@ -1,0 +1,319 @@
+.service-parent-offer {
+    .service-offer-sub-parent {
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: initial;
+        overflow-x: hidden;
+        height: 530px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        .row {
+            .col-md-7 {
+                .serivice-offer {
+                    width: 80%;
+                    margin: 0 auto 0 30px;
+
+                    h6 {
+                        font-size: 16px;
+                        font-weight: 600;
+                        line-height: 20px;
+                        padding: 5px 0;
+                    }
+
+                    h1 {
+                        font-size: 37px;
+                        font-weight: 600;
+                        line-height: 50px;
+                        padding: 7px 0;
+                    }
+
+                    p {
+                        font-size: 18px;
+                        line-height: 30px;
+                        padding: 7px 0;
+                        font-size: 20px;
+                        font-weight: 400;
+                    }
+
+                    .button-style {
+                        .WhoweraeAbout-sub-viewmore-button {
+                            display: flex;
+                            gap: 10px;
+                            font-size: 12px;
+                            font-weight: 500;
+                            letter-spacing: 0.22px;
+                            fill: #000000;
+                            color: #000000;
+                            background-color: #02010100;
+                            border-style: solid;
+                            border-width: 3px 3px 3px 3px;
+                            border-color: #E1E4E6;
+                            border-radius: 25px;
+                            padding: 12px 30px;
+                            transition: all 0.1s linear;
+
+                            svg {
+                                color: #c3921c;
+                                height: 20px;
+                                width: 20px;
+                            }
+
+                            a {
+                                text-decoration: none;
+                                color: #000000;
+                                font-size: 14px;
+                            }
+
+                            svg {
+                                font-size: 14px !important;
+                            }
+
+                            &:hover {
+                                border-color: #c3921c;
+                                background: #c3921c;
+
+                                a {
+                                    color: #fff;
+                                }
+
+                                svg {
+                                    color: #fff;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            .col-md-5 {
+                .service-offer-iamge {
+                    width: 100%;
+                    height: 380px;
+
+                    img {
+                        width: 100%;
+                        height: 100%;
+                        object-fit: cover;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width:575px) {
+    .service-parent-offer {
+        .service-offer-sub-parent {
+            height: fit-content;
+
+            .row {
+                .col-md-7 {
+                    .serivice-offer {
+                        width: 93%;
+                        margin: 20px auto;
+
+                        h6 {
+                            font-size: 16px;
+                            font-weight: 600;
+                            line-height: 20px;
+                            padding: 5px 0;
+                        }
+
+                        h1 {
+                            font-size: 25px;
+                            line-height: 31px;
+                            padding: 7px 0;
+                        }
+
+                        p {
+                            line-height: 27px;
+                            text-align: justify;
+                            font-size: 15px;
+                            font-weight: 400;
+                        }
+
+                        .button-style {
+                            .button-page {
+                                margin-bottom: 15px;
+                                padding: 6px 18px;
+                            }
+                        }
+                    }
+                }
+
+                .col-md-5 {
+                    .service-offer-iamge {
+                        height: 290px;
+                        width: 94%;
+                        margin: 10px auto;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (min-width:576px) and (max-width:767px) {
+    .service-parent-offer {
+        .service-offer-sub-parent {
+            height: fit-content;
+
+            .row {
+                align-items: center;
+
+                .col-md-7 {
+                    .serivice-offer {
+                        width: 93%;
+                        margin: 15px auto;
+
+                        h6 {
+                            font-size: 13px;
+                            font-weight: 500;
+                            line-height: 0px;
+                            padding-top: 35px;
+                        }
+
+
+
+                        h1 {
+                            font-size: 22px;
+                            line-height: 30px;
+                        }
+
+                        p {
+                            line-height: 27px;
+                            text-align: justify;
+                            font-size: 15px;
+                            font-weight: 400;
+                        }
+
+                        .button-style {
+                            .button-page {
+                                margin-bottom: 15px;
+                                padding: 6px 18px;
+                            }
+                        }
+                    }
+                }
+
+                .col-md-5 {
+                    .service-offer-iamge {
+                        height: 350px;
+
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .service-parent-offer {
+        .service-offer-sub-parent {
+            padding: 30px 0px;
+
+            .row {
+                align-items: center;
+
+                .col-md-7 {
+                    .serivice-offer {
+                        width: 93%;
+                        margin: auto;
+
+                        h6 {
+                            font-size: 13px;
+                            font-weight: 500;
+                            line-height: 0px;
+                            padding-top: 35px;
+                        }
+
+
+
+                        h1 {
+                            font-size: 26px;
+                            line-height: 38px;
+                        }
+
+                        p {
+                            line-height: 27px;
+                            text-align: justify;
+                            font-size: 15px;
+                            font-weight: 400;
+                        }
+
+                        .button-style {
+                            .button-page {
+                                margin-bottom: 15px;
+                                padding: 6px 18px;
+                            }
+                        }
+                    }
+                }
+
+                .col-md-5 {
+                    .service-offer-iamge {
+                        height: 350px;
+
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .service-parent-offer {
+        .service-offer-sub-parent {
+            padding: 30px 0px;
+            height: 480px;
+
+            .row {
+                align-items: center;
+
+                .col-md-7 {
+                    .serivice-offer {
+                        width: 93%;
+                        margin: auto;
+
+                        h6 {
+                            font-size: 13px;
+                            font-weight: 500;
+                            line-height: 0px;
+                            padding-top: 35px;
+                        }
+
+
+
+                        h1 {
+                            font-size: 32px;
+                            line-height: 38px;
+                        }
+
+                        p {
+                            line-height: 27px;
+                            text-align: justify;
+                            font-size: 16px;
+                            font-weight: 400;
+                        }
+
+                        .button-style {
+                            .button-page {
+                                margin-bottom: 15px;
+                                padding: 6px 18px;
+                            }
+                        }
+                    }
+                }
+
+                .col-md-5 {
+                    .service-offer-iamge {
+                        height: 350px;
+
+                    }
+                }
+            }
+        }
+    }
+}

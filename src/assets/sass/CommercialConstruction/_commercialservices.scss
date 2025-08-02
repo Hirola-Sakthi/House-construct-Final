@@ -1,0 +1,79 @@
+.CommercialOurservices-parent{
+  padding-top: 40px;
+    .CommercialOurservices-title{
+      h1{
+        font-size: 48px;
+        font-weight: 600;
+        padding-bottom: 10px;
+      }
+
+    }
+    .row{
+        .commercialourservices-sub {
+            .commercialourservices-image-parent {
+              height: 335px;
+              width: 100%;
+              overflow: hidden;
+          
+              img {
+                height: 100%;
+                width: 100%;
+                object-fit: cover;
+                transition: all 0.3s linear;
+          
+                &:hover {
+                  transform: scale(1.1);
+                }
+              }
+            }
+          
+            p {
+              text-align: center;
+              width: 100%;
+              padding: 12px 0 12px 15px;
+              border-top: 5px solid #dfa51d;
+              color: #fff;
+              background-color: #000;
+              transition: background-size .3s linear, background-position .3s linear;
+              background-image: linear-gradient(to top, transparent 0%, transparent 50%, #dfa51d 50%);
+              background-size: 100% 200%;
+              background-position: 0 100%;
+            }
+            &:hover p{
+                background-position: 0 0;
+              }
+          }
+    }
+}
+@media only screen and (max-width:767px){
+  .CommercialOurservices-parent{
+    padding-top: 20px;
+    .CommercialOurservices-title{
+      text-align: center;
+      h1{
+        font-size:28px;
+      }
+    }
+  }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+  .CommercialOurservices-parent{
+    padding-top: 25px;
+    .CommercialOurservices-title{
+      h1{
+        font-size:36px;
+      }
+    }
+    .row{
+      .col-md-4{
+        padding: 7px;
+      }
+      .commercialourservices-sub{
+        p{
+          font-size: 14px;
+          margin-bottom: 0px;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,651 @@
+.house-floor-plans-page {
+    padding: 50px 0;
+  
+    h1 {
+      color: #022C22;
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 20px;
+    }
+  
+    .sidebar {
+      background: #fff;
+      padding: 20px;
+      border-right: 1px solid #eee;
+      height: calc(100vh - 100px);
+      position: sticky;
+      top: 100px;
+      overflow-y: auto;
+  
+      .sidebar-content {
+        .total-count {
+          margin-bottom: 20px;
+          padding-bottom: 15px;
+          border-bottom: 1px solid #eee;
+  
+          p {
+            margin: 0;
+            font-size: 16px;
+            color: #333;
+          }
+  
+          .filters-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 10px;
+  
+            p {
+              font-size: 14px;
+              color: #666;
+            }
+  
+            .reset-btn {
+              padding: 4px 12px;
+              font-size: 13px;
+              border-color: #ddd;
+              color: #666;
+  
+              &:hover:not(:disabled) {
+                background-color: #f8f9fa;
+                border-color: #999;
+              }
+  
+              &:disabled {
+                opacity: 0.5;
+                cursor: not-allowed;
+              }
+            }
+          }
+        }
+      }
+  
+      .filter-section {
+        margin-bottom: 20px;
+        border-bottom: 1px solid #eee;
+        padding-bottom: 15px;
+  
+        &:last-child {
+          border-bottom: none;
+        }
+  
+        .filter-section-header {
+          width: 100%;
+          text-align: left;
+          background: none;
+          border: none;
+          color: #022C22;
+          font-weight: 600;
+          padding: 5px 0;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+  
+          &:hover, &:focus {
+            background: none;
+            color: #C3921C;
+          }
+  
+          .arrow {
+            font-size: 12px;
+            transition: transform 0.3s ease;
+  
+            &.open {
+              transform: rotate(90deg);
+            }
+          }
+        }
+  
+        .filter-section-content {
+          padding: 5px 0;
+  
+          .form-check {
+            margin-bottom: 8px;
+            
+            &:last-child {
+              margin-bottom: 0;
+            }
+  
+            .form-check-input {
+              &:checked {
+                background-color: #C3921C;
+                border-color: #C3921C;
+              }
+            }
+  
+            .form-check-label {
+              color: #666;
+              font-size: 14px;
+            }
+          }
+  
+          .form-select {
+            border-color: #ddd;
+            color: #666;
+            font-size: 14px;
+  
+            &:focus {
+              border-color: #C3921C;
+              box-shadow: 0 0 0 0.2rem rgba(195, 146, 28, 0.25);
+            }
+          }
+  
+          .form-range {
+            &::-webkit-slider-thumb {
+              background: #C3921C;
+            }
+            &::-moz-range-thumb {
+              background: #C3921C;
+            }
+          }
+  
+          .budget-range {
+            margin-top: 10px;
+            color: #666;
+            font-size: 14px;
+            text-align: center;
+          }
+        }
+      }
+  
+      .floor-counter {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 15px;
+        margin: 10px 0;
+  
+        .floor-btn {
+          width: 36px;
+          height: 36px;
+          padding: 0;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          font-size: 18px;
+          border-radius: 50%;
+          border: 1px solid #ddd;
+          background: white;
+          color: #333;
+          transition: all 0.3s ease;
+  
+          &:hover {
+            background: #f8f9fa;
+            border-color: #999;
+          }
+  
+          &:active {
+            background: #e9ecef;
+          }
+        }
+  
+        .floor-number {
+          font-size: 18px;
+          font-weight: 500;
+          min-width: 30px;
+          text-align: center;
+        }
+      }
+    }
+  
+    .floor-plan-card {
+      background: #fff;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      transition: all 0.3s ease;
+  
+      &:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+      }
+  
+      .floor-plan-image {
+        width: 100%;
+        height: 250px;
+        overflow: hidden;
+  
+        img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+          transition: transform 0.3s ease;
+  
+          &:hover {
+            transform: scale(1.05);
+          }
+        }
+      }
+  
+      .floor-plan-content {
+        padding: 20px;
+  
+        h3 {
+          color: #022C22;
+          font-size: 18px;
+          font-weight: 600;
+          margin-bottom: 10px;
+        }
+  
+        p {
+          color: #666;
+          font-size: 14px;
+          margin: 0;
+        }
+  
+        .price {
+          color: #C3921C;
+          font-weight: 600;
+          margin-top: 10px;
+        }
+      }
+    }
+  }
+  
+  @media (max-width: 991px) {
+    .house-floor-plans-page {
+      .sidebar {
+        height: auto;
+        position: relative;
+        top: 0;
+        margin-bottom: 30px;
+        border-right: none;
+        border-bottom: 1px solid #eee;
+        padding-bottom: 20px;
+      }
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .house-floor-plans-page {
+      padding: 30px 0;
+  
+      h1 {
+        font-size: 28px;
+        margin-bottom: 15px;
+      }
+  
+      .sidebar {
+        padding: 15px;
+        margin-bottom: 20px;
+  
+        .sidebar-content {
+          .total-count {
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+  
+            .filters-header {
+              flex-direction: column;
+              gap: 10px;
+              align-items: stretch;
+  
+              .reset-btn {
+                width: 100%;
+              }
+            }
+          }
+  
+          .filter-section {
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+  
+            .filter-section-header {
+              font-size: 14px;
+            }
+  
+            .filter-section-content {
+              .form-check {
+                margin-bottom: 6px;
+  
+                .form-check-label {
+                  font-size: 13px;
+                }
+              }
+  
+              .form-select {
+                font-size: 13px;
+              }
+  
+              .budget-range {
+                font-size: 13px;
+              }
+            }
+          }
+  
+          .floor-counter {
+            gap: 10px;
+  
+            .floor-btn {
+              width: 32px;
+              height: 32px;
+              font-size: 16px;
+            }
+  
+            .floor-number {
+              font-size: 16px;
+            }
+          }
+        }
+      }
+  
+      .floor-plan-card {
+        .floor-plan-image {
+          height: 200px;
+        }
+  
+        .floor-plan-content {
+          padding: 15px;
+  
+          h3 {
+            font-size: 16px;
+          }
+        }
+      }
+    }
+  }
+  
+  .table-style-card {
+    transition: transform 0.2s ease;
+    &:hover {
+      transform: scale(1.02);
+      box-shadow: 0 6px 20px rgba(20, 20, 20, 0.1);
+    }
+    .like-share {
+      font-size: 0.9rem;
+    }
+  }
+
+  // Enhanced card styles for consistent heights
+  .brickbolt-style-card {
+    transition: all 0.3s ease;
+    border: 1px solid #e9ecef;
+    
+    &:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15) !important;
+      border-color: #C3921C;
+    }
+
+    // Ensure consistent image height
+    img {
+      transition: transform 0.3s ease;
+      
+      &:hover {
+        transform: scale(1.05);
+      }
+    }
+
+    // Description text with consistent height
+    p {
+      line-height: 1.5;
+      word-wrap: break-word;
+    }
+
+    // Specifications grid
+    .specs-grid {
+      background: #f8f9fa;
+      padding: 10px;
+      border-radius: 6px;
+      border: 1px solid #e9ecef;
+    }
+
+    // Button styles
+    .btn {
+      transition: all 0.3s ease;
+      font-weight: 500;
+      
+      &:hover {
+        transform: translateY(-1px);
+      }
+    }
+
+    // Viewing count badge
+    .text-danger {
+      background: rgba(220, 53, 69, 0.1);
+      padding: 5px 10px;
+      border-radius: 15px;
+      border: 1px solid rgba(220, 53, 69, 0.2);
+      display: inline-block;
+    }
+  }
+
+  // Responsive adjustments
+  @media (max-width: 768px) {
+    .brickbolt-style-card {
+      .specs-grid {
+        padding: 8px;
+        font-size: 0.85rem;
+      }
+      
+      p {
+        height: 50px !important;
+        font-size: 0.85rem !important;
+      }
+      
+      img {
+        height: 180px !important;
+      }
+
+      .btn {
+        font-size: 0.9rem;
+        padding: 8px 12px;
+      }
+    }
+  }
+
+  @media (max-width: 576px) {
+    .house-floor-plans-page {
+      padding: 20px 0;
+  
+      h1 {
+        font-size: 24px;
+        margin-bottom: 10px;
+      }
+  
+      .brickbolt-style-card {
+        padding: 15px !important;
+        
+        img {
+          height: 160px !important;
+        }
+  
+        .specs-grid {
+          padding: 6px;
+          font-size: 0.8rem;
+        }
+  
+        p {
+          height: 45px !important;
+          font-size: 0.8rem !important;
+        }
+  
+        .btn {
+          font-size: 0.85rem;
+          padding: 6px 10px;
+        }
+  
+        .text-danger {
+          font-size: 0.75rem;
+          padding: 4px 8px;
+        }
+      }
+  
+      .sidebar {
+        padding: 10px;
+  
+        .sidebar-content {
+          .filter-section {
+            margin-bottom: 10px;
+            padding-bottom: 8px;
+  
+            .filter-section-header {
+              font-size: 13px;
+              padding: 3px 0;
+            }
+  
+            .filter-section-content {
+              padding: 3px 0;
+  
+              .form-check {
+                margin-bottom: 4px;
+  
+                .form-check-label {
+                  font-size: 12px;
+                }
+              }
+  
+              .form-select {
+                font-size: 12px;
+                padding: 6px 8px;
+              }
+            }
+          }
+  
+          .floor-counter {
+            gap: 8px;
+  
+            .floor-btn {
+              width: 28px;
+              height: 28px;
+              font-size: 14px;
+            }
+  
+            .floor-number {
+              font-size: 14px;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  @media (max-width: 480px) {
+    .house-floor-plans-page {
+      .brickbolt-style-card {
+        padding: 12px !important;
+        
+        img {
+          height: 140px !important;
+        }
+  
+        h5 {
+          font-size: 1rem;
+          margin-bottom: 8px;
+        }
+  
+        .specs-grid {
+          padding: 5px;
+          font-size: 0.75rem;
+        }
+  
+        p {
+          height: 40px !important;
+          font-size: 0.75rem !important;
+        }
+  
+        .btn {
+          font-size: 0.8rem;
+          padding: 5px 8px;
+        }
+      }
+    }
+  }
+
+  .house-plan-hero {
+    position: relative;
+    width: 100%;
+    height: 80vh;
+    min-height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  .hero-bg {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    z-index: 0;
+    transition: transform 0.4s;
+  }
+
+  .hero-overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,0.45);
+    z-index: 1;
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 2;
+    color: #fff;
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  .hero-content h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+
+  .hero-content p {
+    font-size: 1.25rem;
+    font-weight: 400;
+  }
+
+
+// Floor Plan Detail Background Styles
+.floor-plan-detail-bg {
+  position: relative;
+  width: 100%;
+  min-height: 200vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 60px 0;
+  margin-bottom: 0;
+}
+
+.floor-plan-detail-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.45);
+  z-index: 1;
+}
+
+.floor-plan-detail-bg .container {
+  position: relative;
+  z-index: 2;
+}
+
+.floor-plan-detail-bg h1,
+.floor-plan-detail-bg p {
+  color: #fff;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.5);
+}
+
+@media (max-width: 768px) {
+  .floor-plan-detail-bg {
+    padding: 30px 0;
+    min-height: 30vh;
+  }
+  .floor-plan-detail-bg h1 {
+    font-size: 1.7rem;
+  }
+  .floor-plan-detail-bg p {
+    font-size: 1rem;
+  }
+} 

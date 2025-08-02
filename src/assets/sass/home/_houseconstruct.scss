@@ -1,0 +1,391 @@
+.housecontruct-page {
+ background:  #f4f7f9;
+ padding-bottom: 50px;
+ @media only screen and (max-width:575px){
+  padding-bottom: 0;
+ }
+  .housecontruct-page-sub {
+    .housecontruct-page-heading {
+      padding-left: 20px;
+      h2 {
+        color: #000;
+        text-align: left;
+        font-family: "Jost", sans-serif;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 58px;
+        text-transform: capitalize;
+        padding: 20px 0px 20px;
+      }
+      p{
+        font-size: 16px;
+        padding: 0px 0px 0px;
+        strong{
+          font-size: 18px;
+        }
+      }
+    }
+    .house-const-card {
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      margin: 20px 0px 0px;
+      .house-const-card-img {
+        width: 60px;
+        height: 60px;
+        margin: 15px 0px;
+        .iconimg {
+          animation: iconimg 3s ease;
+        }
+        // @keyframes iconimg {
+        //   30% { transform: scale(1.2); }
+        //   40%, 60% { transform: rotate(-20deg) scale(1.2); }
+        //   50% { transform: rotate(20deg) scale(1.2); }
+        //   70% { transform: rotate(0deg) scale(1.2); }
+        //   100% { transform: scale(1); }
+        // }
+        img {
+          width: 100%;
+          height: 100%;
+      }
+    }
+    .house-const-card-text{
+      h3{
+        font-size: 22px;
+        font-weight: 700;
+        margin: 14px 0px;
+      }
+      p{
+        font-size: 16px;
+        font-weight: 400;
+        width: 92%;
+        margin: auto;
+      }
+    }
+  }
+    .container-fluid {
+      width: 90%;
+      margin: auto;
+      padding-top: 50px;
+     
+    
+    }
+  }
+}
+
+@media only screen and (max-width:767px) {
+  .housecontruct-page {
+    padding-top: 5px;
+    padding-bottom: 20px;
+
+    .housecontruct-page-sub {
+      .housecontruct-page-heading {
+        h2 {
+          font-size: 23px;
+          font-weight: 600;
+          line-height: 34px;
+          padding-bottom: 10px;
+        }
+      }
+
+      .container-fluid {
+        padding-top: 20px;
+
+        .row {
+          .card1 {
+            width: 100%;
+            padding: 20px 15px 20px 15px;
+            left: 10px;
+            p{
+              font-size: 14px;
+            }
+            img{
+              margin-bottom: 10px;
+            }
+          }
+
+          .card2 {
+            width: 100%;
+            padding: 20px 15px 20px 15px;
+            margin: auto;
+            margin-bottom: 15px;
+            p{
+              font-size: 14px;
+            }
+            img{
+              margin-bottom: 10px;
+            }
+          }
+
+          .card3 {
+            width: 100%;
+            padding: 20px 15px 20px 15px;
+            left: 10px;
+            p{
+              font-size: 14px;
+            }
+            img{
+              margin-bottom: 10px;
+            }
+          }
+
+          .card4 {
+            width: 100%;
+            padding: 20px 15px 20px 15px;
+            margin: auto;
+            margin-bottom: 15px;
+            img{
+              margin-bottom: 10px;
+            }
+            p{
+              font-size: 14px;
+            }
+          }
+
+          .card5 {
+            width: 100%;
+            padding: 20px 15px 20px 15px;
+            left: 10px;
+            p{
+              font-size: 14px;
+            }
+            img{
+              margin-bottom: 10px;
+            }
+          }
+
+          .card6 {
+            width: 100%;
+            padding: 20px 15px 20px 15px;
+            margin: auto;
+            margin-bottom: 15px;
+            p{
+              font-size: 14px;
+            }
+            img{
+              margin-bottom: 10px;
+            }
+          }
+
+          .card7 {
+            width: 100%;
+            padding: 20px 15px 20px 15px;
+            left: 10px;
+            p{
+              font-size: 14px;
+            }
+            img{
+              margin-bottom: 10px;
+            }
+          }
+
+          .card8 {
+            width:100%;
+            padding: 20px 15px 20px 15px;
+            margin: auto;
+            margin-bottom: 15px;
+            p{
+              font-size: 14px;
+            }
+            img{
+              margin-bottom: 10px;
+            }
+          }
+
+          .house-contruct-image-parent {
+            height: 280px;
+          }
+        }
+      }
+    }
+  }
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+  .housecontruct-page {
+    padding-top: 5px;
+
+    .housecontruct-page-sub {
+      .housecontruct-page-heading {
+        h2 {
+          font-size: 28px;
+          font-weight: 600;
+          padding-bottom: 20px;
+          line-height: 34px;
+        }
+      }
+
+      .container-fluid {
+        padding-top: 20px;
+
+        .row {
+          .card1 {
+            width: 100%;
+            padding: 20px 15px 20px 15px;
+            left: 50px;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            p{
+              font-size: 15px;
+            }
+            img{
+              margin-left: -10px;
+            }
+            .col-md-9{
+              width: 100%;
+              text-align: center;
+
+            }
+          }
+
+          .card2 {
+            width: 100%;
+            padding: 20px 15px 20px 15px;
+            margin: auto;
+            margin-bottom: 15px;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            p{
+              font-size: 15px;
+            }
+            img{
+              margin-left: -10px;
+            }
+            .col-md-9{
+              width: 100%;
+              text-align: center;
+            }
+          }
+
+          .card3 {
+            width: 100%;
+            padding: 20px 15px 20px 15px;
+            left: 50px;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            p{
+              font-size: 15px;
+            }
+            img{
+              margin-left: -10px;
+            }
+            .col-md-9{
+              width: 100%;
+              text-align: center;
+            }
+          }
+
+          .card4 {
+            width: 100%;
+            padding: 20px 15px 20px 15px;
+            margin: auto;
+            margin-bottom: 15px;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            position: relative;
+            right: 50px;
+            p{
+              font-size: 15px;
+            }
+            img{
+              margin-left: -10px;
+            }
+            .col-md-9{
+              width: 100%;
+              text-align: center;
+            }
+          }
+
+          .card5 {
+            width: 100%;
+            padding: 20px 15px 20px 15px;
+            left: 10px;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            p{
+              font-size: 15px;
+            }
+            img{
+              margin-left: -10px;
+            }
+            .col-md-9{
+              width: 100%;
+              text-align: center;
+            }
+          }
+
+          .card6 {
+            width: 100%;
+            padding: 20px 15px 20px 15px;
+            margin: auto;
+            margin-bottom: 15px;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            position: relative;
+            right: 50px;
+            p{
+              font-size: 15px;
+            }
+            img{
+              margin-left: -10px;
+            }
+            .col-md-9{
+              width: 100%;
+              text-align: center;
+            }
+          }
+
+          .card7 {
+            width: 100%;
+            padding: 20px 15px 20px 15px;
+            left: 10px;
+            p{
+              font-size: 15px;
+            }
+          }
+
+          .card8 {
+            width:100%;
+            padding: 20px 15px 20px 15px;
+            margin: auto;
+            margin-bottom: 15px;
+            p{
+              font-size: 15px;
+            }
+          }
+
+          .house-contruct-image-parent {
+            height: 280px;
+          }
+        }
+      }
+    }
+  } 
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+  .housecontruct-page {
+    padding-top: 0px;
+
+    .housecontruct-page-sub {
+      .housecontruct-page-heading {
+        h2 {
+          font-size: 42px;
+          font-weight: 600;
+          padding-bottom: 20px;
+          line-height: 34px;
+        }
+      }
+      .container-fluid {
+        padding-top: 20px;
+      }
+    }
+  } 
+}
