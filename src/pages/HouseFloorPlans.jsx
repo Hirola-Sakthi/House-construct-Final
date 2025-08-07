@@ -288,6 +288,7 @@ const HouseFloorPlans = () => {
 
   return (
     <>
+       <div id="floorplans" className="hidden-div-for-floorplan"></div>
       <Header />
       <div
         className="service-banner-subparent"

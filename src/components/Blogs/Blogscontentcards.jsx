@@ -363,6 +363,107 @@ const Blogscontentcards = ({ filterLink }) => {
       avatar: 'BlogsAvatar.png',
       link: '/why-house-construct-is-bangalores-trusted-home-building-partner'
     },
+    {
+      title: 'Best Construction Company in Mysore for Hassle-Free Home Building',
+      subtitle: 'Software Engineering',
+      author: 'Olivia Rhye',
+      date: '16 July, 2025',
+      description: ': Looking for the best construction company in Mysore? House Construct offers expert home building services with quality craftsmanship, transparent pricing, and on-time delivery.',
+      image: 'blog/Best Construction Company in Mysore for Hassle-Free Home Building.png',
+      avatar: 'BlogsAvatar.png',
+      link: '/best-construction-company-in-mysore-for-hassle-free-home-building'
+    },
+    {
+      title: 'Thinking of Building a Home in Mysore? Here’s Your Starter Guide',
+      subtitle: 'Software Engineering',
+      author: 'Olivia Rhye',
+      date: '18 July, 2025',
+      description: ': Dreaming of building a home in Mysore? House Construct’s starter guide covers planning, design ideas, and expert advice to simplify your home construction journey. ',
+      image: 'blog/Thinking of Building a Home in Mysore_ Here’s Your Starter Guide.png',
+      avatar: 'BlogsAvatar.png',
+      link: '/thinking-of-building-a-home-in-mysore-heres-your-starter-guide'
+    },
+     {
+      title: 'Top Home Design Trends in Chennai You Should Know About',
+      subtitle: 'Software Engineering',
+      author: 'Olivia Rhye',
+      date: '20 July, 2025',
+      description: ': Explore top home design trends in Chennai for 2025 with House Construct. Get inspired by innovative interiors, smart layouts, and sustainable living ideas.',
+      image: 'blog/Top Home Design Trends in Chennai You Should Know About.png',
+      avatar: 'BlogsAvatar.png',
+      link: '/top-home-design-trends-in-chennai-you-should-know-about'
+    },
+     {
+      title: 'Top Reasons to Hire a Professional Construction Company in Chennai',
+      subtitle: 'Software Engineering',
+      author: 'Olivia Rhye',
+      date: '22 July, 2025',
+      description: ': Hiring a professional construction company in Chennai guarantees expert craftsmanship, cost efficiency, and hassle-free project execution. Learn more with House Construct',
+      image: 'blog/Top Reasons to Hire a Professional Construction Company in Chennai.png',
+      avatar: 'BlogsAvatar.png',
+      link: '/top-reasons-to-hire-a-professional-construction-company-in-chennai'
+    },
+    {
+      title: 'What Makes a Construction Company in Mysore Truly Reliable?',
+      subtitle: 'Software Engineering',
+      author: 'Olivia Rhye',
+      date: '24 July, 2025',
+      description: ': Choosing a reliable construction company in Mysore? House Construct shares essential tips on spotting experienced builders who deliver quality, transparency, and on-time results.',
+      image: 'blog/What Makes a Construction Company in Mysore Truly Reliable.png',
+      avatar: 'BlogsAvatar.png',
+      link: '/what-makes-a-construction-company-in-mysore-truly-reliable?'
+    },
+     {
+      title: 'How to Plan a Vastu-Compliant Home Layout in Chennai',
+      subtitle: 'Software Engineering',
+      author: 'Olivia Rhye',
+      date: '26 July, 2025',
+      description: ':  Learn how to plan a Vastu-compliant home layout in Chennai with House Construct. Get expert advice on balancing traditional Vastu rules with modern home designs.',
+      image: 'blog/How to Plan a Vastu-Compliant Home Layout in Chennai.png',
+      avatar: 'BlogsAvatar.png',
+      link: '/how-to-plan-a-vastu-compliant-home-layout-in-chennai'
+    },
+    {
+      title: 'What Is Turnkey House Construction and Is It Right for You?',
+      subtitle: 'Software Engineering',
+      author: 'Olivia Rhye',
+      date: '28 July, 2025',
+      description: ':  Turnkey house construction simplifies your home-building journey with end-to-end solutions. Discover how House Construct makes it seamless, efficient, and cost-effective.',
+      image: 'blog/What Is Turnkey House Construction and Is It Right for You.png',
+      avatar: 'BlogsAvatar.png',
+      link: '/what-is-turnkey-house-construction-and-is-it-right-for-you?'
+    },
+    {
+      title: 'What to Expect During Each Stage of House Construction in Bangalore',
+      subtitle: 'Software Engineering',
+      author: 'Olivia Rhye',
+      date: '2 August, 2025',
+      description: ':  Planning house construction in Bangalore? Learn what to expect at every stage—from design and approvals to foundation, structure, and finishing with House Construct’s expert guide.',
+      image: 'blog/What to Expect During Each Stage of House Construction in Bangalore.png',
+      avatar: 'BlogsAvatar.png',
+      link: '/what-to-expect-during-each-stage-of-house-construction-in-bangalore'
+    },
+
+    {
+      title: 'When Is the Best Time to Start House Construction in Bangalore?',
+      subtitle: 'Software Engineering',
+      author: 'Olivia Rhye',
+      date: '4 August, 2025',
+      description: ':  Planning house construction in Bangalore? House Construct explains the best seasons to start building, considering weather, costs, and project timelines for smooth execution.',
+      image: 'blog/When Is the Best Time to Start House Construction in Bangalore.png',
+      avatar: 'BlogsAvatar.png',
+      link: '/when-is-the-best-time-to-start-house-construction-in-bangalore?'
+    },
+     {
+      title: 'Why Location Matters When Building a Home in Bangalore or Chennai',
+      subtitle: 'Software Engineering',
+      author: 'Olivia Rhye',
+      date: '6 August, 2025',
+      description: ':   Building a home in Bangalore or Chennai? House Construct explains why choosing the right location impacts property value, convenience, lifestyle, and long-term satisfaction.',
+      image: 'blog/Why Location Matters When Building a Home in Bangalore or Chennai.png',
+      avatar: 'BlogsAvatar.png',
+      link: '/why-location-matters-when-building-a-home-in-bangalore-or-chennai'
+    },
   ];
 
   const filteredBlogData = blogData.filter(item => item.link !== filterLink);

@@ -65,6 +65,16 @@ import Blogmtwentyfive from './pages/Blogmtwentyfive';
 import Blogmtwentysix from './pages/Blogmtwentysix';
 import Blogmtwentyseven from './pages/Blogmtwentyseven';
 import Blogmtwentyeight from './pages/Blogmtwentyeight';
+import Blogmtwentynine from './pages/Blogmtwentynine ';
+import Blogmthirty from './pages/Blogmthirty';
+import Blogmthirtyone from './pages/Blogmthirtyone';
+import Blogmthirtytwo from './pages/Blogmthirtytwo';
+import Blogmthirtythree from './pages/Blogmthirtythree';
+import Blogmthirtyfour from './pages/Blogmthirtyfour';
+import Blogmthirtyfive from './pages/Blogmthirtyfive';
+import Blogmthirtysix from './pages/Blogmthirtysix';
+import Blogmthirtyseven from './pages/Blogmthirtyseven';
+import Blogmthirtyeight from './pages/Blogmthirtyeight';
 
 const App = () => {
   const helmetContext = {}
@@ -124,6 +134,17 @@ const App = () => {
         <Route path='/what-makes-house-construct-different-from-other-builders?' exact element={<Blogmtwentysix/>} /> 
         <Route path='/what-should-you-look-for-in-a-construction-company-in-bangalore?' exact element={<Blogmtwentyseven/>} /> 
         <Route path='/why-house-construct-is-bangalores-trusted-home-building-partner' exact element={<Blogmtwentyeight/>} />
+        <Route path='/best-construction-company-in-mysore-for-hassle-free-home-building' exact element={<Blogmtwentynine/>} />
+        <Route path='/thinking-of-building-a-home-in-mysore-heres-your-starter-guide' exact element={<Blogmthirty/>} />
+        <Route path='/top-home-design-trends-in-chennai-you-should-know-about' exact element={<Blogmthirtyone/>} />
+        <Route path='/top-reasons-to-hire-a-professional-construction-company-in-chennai' exact element={<Blogmthirtytwo/>} />
+        <Route path='/what-makes-a-construction-company-in-mysore-truly-reliable?' exact element={<Blogmthirtythree/>} />
+        <Route path='/how-to-plan-a-vastu-compliant-home-layout-in-chennai' exact element={<Blogmthirtyfour/>} />
+        <Route path='/what-is-turnkey-house-construction-and-is-it-right-for-you?' exact element={<Blogmthirtyfive/>} />
+        <Route path='/what-to-expect-during-each-stage-of-house-construction-in-bangalore' exact element={<Blogmthirtysix/>} />
+        <Route path='/when-is-the-best-time-to-start-house-construction-in-bangalore?' exact element={<Blogmthirtyseven/>} />
+        <Route path='/why-location-matters-when-building-a-home-in-bangalore-or-chennai' exact element={<Blogmthirtyeight/>} />
+        
 
 
 

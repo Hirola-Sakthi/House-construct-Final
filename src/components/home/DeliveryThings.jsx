@@ -173,6 +173,7 @@ const DeliveryThings = () => {
                       sustainability, we’ve crafted a reputation that stands the
                       test of time.
                     </p>
+                    <div id="homeoffers" className="hidden-div-for-homeoffers"></div>
                     <p>
                       Our journey has been marked by a passion for turning
                       dreams into reality, a commitment to designing and
@@ -183,6 +184,7 @@ const DeliveryThings = () => {
                       exceptional.
                     </p>
                   </div>
+      
                   <div className="see-project-button">
                     <button className='WhoweraeAbout-sub-viewmore-button'>
                       <Link to="/services">View More</Link>

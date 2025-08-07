@@ -53,6 +53,7 @@ const Home = () => {
   const [toastShown, setToastShown] = useState(false);
   const [message, setMessage] = useState("");
   const [selectedCityFromFooter, setSelectedCityFromFooter] = useState("");
+  
 
   const openModal = () => {
     setVisibleModal(true);
@@ -168,12 +169,13 @@ const Home = () => {
           data-rh="true"
         />
       </Helmet>
+     <div id="home" className="hidden-div-for-home"></div>
       <Header openModal={openModal} />
       <Banner />
       <Houseconstruct />
       <DeliveryThings />
 
-      <HomeOffers />
+      <HomeOffers/>
       <ReferAndEarn />
       <HomePackages selectedCityFromFooter={selectedCityFromFooter} />
       <YoutubeSection />

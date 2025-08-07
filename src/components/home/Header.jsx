@@ -86,7 +86,7 @@ const CustomHeader = ({openModal}) => {
       </div>
 
       {/* Drawer for mobile */}
-      <div className="mobile-menu">
+      <div className="mobile-menu ">
         {/* <Button type="primary" className="button"> */}
         <MenuOutlined onClick={() => setDrawerVisible(true)} style={{ fontSize: '24px', color: '#000' }} />
         {/* </Button> */}

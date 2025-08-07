@@ -30,6 +30,8 @@ const CommercialOurservices = () => {
   ];
 
   return (
+    <>
+    
     <div className='CommercialOurservices-parent'>
       <div className="container-lg container-xl container-xxl">
         <div className='CommercialOurservices-title'>
@@ -44,11 +46,14 @@ const CommercialOurservices = () => {
                 </div>
                 <p>{service.name}</p>
               </div>
+                 <div id="commercial" className="hidden-div-for-commercial"></div>
             </div>
+            
           ))}
         </div>
       </div>
     </div>
+    </>
   );
 };
 
