@@ -27,6 +27,7 @@ const BlogSinglepage = () => {
                 By<span>HOUSE CONSTRUCT</span>
               </p>
               <p>March 07, 2021</p>
+              {/* date section */}
             </div>
             <div className="blog-single-page-text10">
 
@@ -76,7 +77,6 @@ const BlogSinglepage = () => {
                     Choosing the right floor plan for your dream home is a decision that should be made with care and consideration. With House Construct as your partner, you can be confident that your dream home’s floor plan will be a reflection of your unique vision and lifestyle. Your dream home is more than just a house; it’s an embodiment of your aspirations and the backdrop for the life you want to create.
                   </p>
                 </li>
-
               </ol>
 
 
